@@ -2,16 +2,24 @@ project:
   type: website
 
 website:
-  title: "Cecilia Zumajo"
+  title: "Cecilia Zumajo-Cardona"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - href: about.qmd
+        # text: Home
+      # - about.qmd
+      - research.qmd
+      - publications.qmd
+      - scicomm.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/CeciZumajo
+      - icon: github 
+        href: https://github.com/cezumajo
+        
 format:
   html:
-    theme: cosmo
+    theme: cyborg
     css: styles.css
     toc: true
 
