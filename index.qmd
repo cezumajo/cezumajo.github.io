@@ -1,7 +1,7 @@
 ---
-title: "WebsiteTest"
+title: ""
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: column-screen
+![](Images/BANNER-Letters.png){fig-align="center"}
+:::
