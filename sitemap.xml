@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cezumajo.github.io/about.html</loc>
-    <lastmod>2024-02-27T22:57:05.838Z</lastmod>
+    <lastmod>2024-02-28T21:30:17.033Z</lastmod>
   </url>
   <url>
     <loc>https://cezumajo.github.io/index.html</loc>
-    <lastmod>2024-02-27T22:57:05.839Z</lastmod>
+    <lastmod>2024-03-01T13:11:37.678Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/research.html</loc>
+    <lastmod>2024-02-28T19:32:19.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/scicomm.html</loc>
+    <lastmod>2024-02-28T19:34:16.897Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications.html</loc>
+    <lastmod>2024-02-28T19:33:17.979Z</lastmod>
   </url>
 </urlset>
