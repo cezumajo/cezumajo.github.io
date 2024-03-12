@@ -1,0 +1,28 @@
+---
+title: "Evolution of the <i>APETALA2</i> Gene lineage in Seed Plants"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Natalia Pabón-Mora
+year: 2016
+date: 2016-03
+publication: Molecular Biology and Evolution
+doi: doi:10.1093/molbev/msw059
+materials: ""
+
+categories:
+  - APETALA2
+  - AP2
+  - ERF
+  - seed plants
+  - gene duplication
+  - gene evolution
+---
+
+## Abstract
+
+Gene duplication is a fundamental source of functional evolutionary change and has been associated with organ- ismal diversification and the acquisition of novel features. The *APETALA2/ETHYLENE RESPONSIVE ELEMENT- BINDING FACTOR (AP2/ERF)* genes are exclusive to vascular plants and have been classified into the *AP2-like* and *ERF-like* clades. The *AP2-like* clade includes the *AINTEGUMENTA (ANT)* and the *euAPETALA2 (euAP2)* genes, both regulated by miR172. Arabidopsis has two paralogs in the euAP2 clade, namely *APETALA2 (AP2)* and *TARGET OF EAT3 (TOE3)* that control flowering time, meristem determinacy, sepal and petal identity and fruit development. *euAP2* genes are likely functionally divergent outside Brassicaceae, as they control fruit development in tomato, and regulate inflorescence meristematic activity in maize. We studied the evolution and expression patterns of *euAP2/ TOE3* genes to assess large scale and local duplications and evaluate protein motifs likely related with functional changes across seed plants. We sampled *euAP2/TOE3* genes from vascular plants and have found three major duplications and a few taxon-specific duplications. Here, we report conserved and new motifs across euAP2/ TOE3 proteins and conclude that proteins predating the Brassicaceae duplication are more similar to AP2 than TOE3. Expression data show a shift from restricted expression in leaves, carpels, and fruits in non-core eudicots and asterids to a broader expression of euAP2 genes in leaves, all floral organs and fruits in rosids. Altogether, our data show a functional trend where the canonical A-function (sepal and petal identity) is exclusive to Brassicaceae and it is likely not maintained outside of rosids.
+
+## Citation
+
+> Alzate-Guarin, F. A., Gil Q., J. A., Jiménez-Úsuga, N. del S., Arango-Acosta, G. J., & Weniger, B. (2011). Antioxidant potential of some species of the genus *Bomarea* (Alstroemeriaceae). *Vitae*, 18(2), 201--207. <https://doi.org/10.17533/udea.vitae.10061>

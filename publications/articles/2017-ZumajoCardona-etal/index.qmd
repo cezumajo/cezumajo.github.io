@@ -1,0 +1,30 @@
+---
+title: "Evolution of the <i>APETALA2</i> Gene lineage in Seed Plants"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Barbara Ann Ambrose
+  - name: Natalia Pabón-Mora
+year: 2017
+date: 2017-07
+publication: EvoDevo
+doi: doi.org/10.1186/s13227-017-0068-8
+materials: ""
+
+categories:
+  - ALCATRAZ
+  - Basal eudicots
+  - Bocconia frutescens
+  - Fruit development
+  - paleoSPT/ALC
+  - Papaveraceae
+  - SPATULA
+---
+
+## Abstract
+
+**Background:** *SPATULA (SPT)* and *ALCATRAZ (ALC)* are recent paralogs that belong to the large bHLH transcription factor family. Orthologs of these genes have been found in all core eudicots, whereas pre-duplication genes, named paleoSPATULA/ALCATRAZ, have been found in basal eudicots, monocots, basal angiosperms and gymnosperms. Never- theless, functional studies have only been performed in Arabidopsis thaliana, where *SPT* and *ALC* are partially redundant in carpel and valve margin development and *ALC* has a unique role in the dehiscence zone. Further analyses of pre-duplication genes are necessary to assess the functional evolution of this gene lineage. **Results:** We isolated additional paleoSPT/ALC genes from *Aristolochia fimbriata*, *Bocconia frutescens*, *Cattleya trianae* and *Hypoxis decumbens* from our transcriptome libraries and performed phylogenetic analyses. We identified the previously described bHLH domain in all analyzed sequences and also new conserved motifs using the MEME suite. Finally, we analyzed the expression of three paleoSPT/ALC genes (BofrSPT1/2/3) from *Bocconia frutescens*, a basal eudicot in the Papaveraceae. To determine the developmental stages at which these genes were expressed, pre- and post-anthesis carpels and fruits of B. frutescens were collected, sectioned, stained, and examined using light micros- copy. Using in situ hybridization we detected that BofrSPT1/2/3 genes are expressed in floral buds, early sepal initiation, stamens and carpel primordia and later during fruit development in the dehiscence zone of the opercular fruit. **Conclusions:** Our expression results, in comparison with those available for core eudicots, suggest conserved roles of members of the SPT/ALC gene lineage across eudicots in the specification of carpel margins and the dehiscence zone of the mature fruits. Although there is some redundancy between *ALC* and *SPT*, these gene clades seem to have undergone some degree of sub-functionalization in the core eudicots, likely by changes in cis regulatory regions and to some extent in coding sequences, at least in Brassicaceae. Our results also indicate that in *Bocconia frutescens*, pale- oSPT/ALC genes may play a role in early floral organ specification that was subsequently lost in core eudicot lineages.
+
+## Citation
+
+> Zumajo-Cardona, C., Ambrose, B. A., & Pabón-Mora, N. (2017). Evolution of the *SPATULA/ALCATRAZ* gene lineage and expression analyses in the basal eudicot, *Bocconia frutescens* L. (Papaveraceae). EvoDevo, 8(1), 5. <https://doi.org/10.1186/s13227-017-0068-8>

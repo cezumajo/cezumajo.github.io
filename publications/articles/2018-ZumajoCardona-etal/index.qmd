@@ -1,0 +1,30 @@
+---
+title: "Duplication and Diversification of REPLUMLESS – A Case Study in the Papaveraceae"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Natalia Pabón-Mora
+  - name: Barbara Ann Ambrose
+year: 2018
+date: 2018-12
+publication: Frontiers in Plant Sciences
+doi: doi.org/10.3389/fpls.2018.01833
+materials: ""
+
+categories:
+  - Basal eudicots
+  - Bocconia frutescens
+  - Fruit development
+  - Papaveraceae
+  - Papaver somiferum
+  - REPLUMLESS
+  - Replum
+---
+
+## Abstract
+
+There is a vast amount of fruit morphological diversity in terms of their texture, the number of carpels, if those carpels are fused or not and how fruits open to disperse the seeds. *Arabidopsis thaliana*, a model eudicot, has a dry bicarpellate silique, when the fruit matures, the two valves fall apart through the dehiscence zone leaving the seeds attached to the remaining medial tissue, called the replum. Proper replum development in A. thaliana is mediated by *REPLUMLESS (RPL)*, a TALE Homeodomain protein. *RPL* represses the valve margin genetic program and the downstream dehiscence zone formation in the medial tissue of the siliques and *RPL* orthologs have conserved roles across the Brassicaceae eudicots. A RPL homolog, *qSH1*, has been studied in rice, a monocot, and plays a role in fruit shedding making it difficult to predict functional evolution of this gene lineage across angiosperms. Although RPL orthologs have been identified across all angiosperms, expression and functional analyses are scarce. In order to fill the phylogenetic gap between the Brassicaceae and monocots we have characterized the expression patterns of *RPL* homologs in two poppies with different fruit types, *Bocconia frutescens* with operculate valvate dehiscence and a persistent medial tissue, similar to a replum, and *Papaver somniferum*, a poppy with persistent medial tissue in between the multicarpellate gynoecia. We found that RPL homologs in Papaveraceae have broad expression patterns during plant development; in the shoot apical meristem, during flowering transition and in many floral organs, especially the carpels. These patterns are similar to those of *RPL* in *A. thaliana*. However, our results suggest that *RPL* does not have conserved roles in the maintenance of medial persistent tissues of fruits but may be involved with establishing the putative dehiscence zone in dry poppy fruits.
+
+## Citation
+
+> Zumajo-Cardona, C., Ambrose, B. A., & Pabón-Mora, N. (2017). Evolution of the *SPATULA/ALCATRAZ* gene lineage and expression analyses in the basal eudicot, *Bocconia frutescens* L. (Papaveraceae). EvoDevo, 8(1), 5. <https://doi.org/10.1186/s13227-017-0068-8>

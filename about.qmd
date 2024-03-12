@@ -5,8 +5,8 @@ title: "About"
 ---
 title: ""
 subtitle: "Cecilia Zumajo-Cardona"
+css: style-center.css
 about: 
-  
   template: marquee
   image: Images/Lab2.png
   id: Heading
@@ -20,8 +20,10 @@ about:
 ---
 
 ::: {#Heading}
-
 :::
+
+
+::: {.justify}
 
 Welcome!
 
@@ -35,4 +37,4 @@ Via Celoria 26, Università degli Studi di Milano Milano, Italy.
 
 cecilia.zumajo\@unimi.it
 
-
+:::

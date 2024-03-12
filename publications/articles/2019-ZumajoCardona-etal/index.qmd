@@ -1,0 +1,31 @@
+---
+title: "The Evolution of the KANADI Gene Family and Leaf Development in Lycophytes and Ferns"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Alejandra Vasco
+  - name: Barbara Ann Ambrose
+year: 2019
+date: 2019-08
+publication: Plants
+doi: doi:10.3390/plants8090313
+materials: ""
+
+categories:
+  - Equisetum 
+  - Ferns
+  - in situ hybridization
+  - lycophytes
+  - KANADI 
+  - megaphyll
+  - microphyll
+  - plant evo-devo
+  - Selaginella
+  - telome theory
+---
+
+## Abstract
+
+Leaves constitute the main photosynthetic plant organ and even though their importance is not debated, the origin and development of leaves still is. The leaf developmental network has been elucidated for angiosperms, from genes controlling leaf initiation, to leaf polarity and shape. There are four *KANADI (KAN)* paralogs in *Arabidopsis thaliana* needed for organ polarity with *KAN1* and *KAN2* specifying abaxial leaf identity. Yet, studies of this gene lineage outside angiosperms are required to better understand the evolutionary patterns of leaf development and the role of *KAN* homologs. We studied the evolution of *KAN* genes across vascular plants and their expression by *in situ* hybridization in the fern, *Equisetum hyemale* and the lycophyte *Selaginella moellendorffii*. Our results show that the expression of *KAN* genes in leaves is similar between ferns and angiosperms. However, the expression patterns observed in the lycophyte *S. moellendorffii* are significantly different compared to all other vascular plants, suggesting that the *KAN* function in leaf polarity is likely only conserved across ferns, gymnosperms, and angiosperms. This study indicates that mechanisms for leaf development are different in lycophytes compared to other vascular plants.
+
+## Citation

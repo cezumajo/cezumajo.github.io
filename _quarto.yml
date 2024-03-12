@@ -4,11 +4,11 @@ project:
 website:
   title: "Cecilia Zumajo-Cardona"
   navbar:
-    left:
+    right:
       - href: about.qmd
         # text: Home
       - research.qmd
-      - publications.qmd
+      - "publications/index.qmd"
       - scicomm.qmd
     tools:
       - icon: twitter

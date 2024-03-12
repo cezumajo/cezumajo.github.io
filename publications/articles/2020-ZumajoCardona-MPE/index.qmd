@@ -1,0 +1,28 @@
+---
+title: "Phylogenetic analyses of key developmental genes provide insight into the complex evolution of seeds"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Barbara Ann Ambrose
+year: 2020
+date: 2020-03
+publication: Molecular Phylogenetics and Evolution
+doi: doi.org/10.1016/j.ympev.2020.106778
+materials: ""
+
+categories:
+  - ABERRANT TESTA SHAPE 
+  - BELL1
+  - Gene duplication
+  - Gene evolution
+  - KANADI 
+  - UNICORN
+  - Seed plants
+  - SHORT INTEGUMENTS1
+---
+
+## Abstract
+
+Gene duplication plays a decisive role in organismal diversification and in the appearance of novel structures. In plants the megagametophyte covered by the integuments, which after fertilization becomes the seed constitutes a novel structure: the ovule. In *Arabidopsis thaliana*, genetic mechanisms regulating ovule development, including the genetics underlying ovule initiation, ovule patterning and integument development, have been identified. Among seed plants, integuments are not only a novelty in evolution, but integuments also present an enormous morphological variation. This study is focused on the evolution of gene families that play a role in the proper morphological development of the integuments, *BELL1 (BEL1)*, *KANADIs (KAN1, KAN2, and KAN4/ATS)*, *UNICORN (UCN)* and *SHORT INTEGUMENTS1 (SIN1)*. In *Arabidopsis, BEL1* establishes the initiation of integument development. *KAN1* and *2* act in the proper development of the outer integument. While *ABERRANT TESTA SHAPE (ATS)*, is involved in the correct separation of both integuments. *UCN* acts in planar growth of the outer integument repressing *ATS*. *SIN1* is involved in cell elongation in the integuments. The results of our analyses show that each of these genes has a different evolutionary history and that while gymnosperms appear to have a simpler ovule morphology, they have more homologues of these candidate genes than angiosperms. In addition, we present the conserved and novel motifs for each of these genes among seed plants and their selection constraints, which may be related to functional changes and to the diversity of ovule morphologies.
+
+## Citation
