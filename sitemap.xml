@@ -2,22 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cezumajo.github.io/about.html</loc>
-    <lastmod>2024-03-04T21:39:46.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cezumajo.github.io/index.html</loc>
-    <lastmod>2024-03-01T13:49:45.826Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cezumajo.github.io/research.html</loc>
-    <lastmod>2024-02-28T19:32:19.964Z</lastmod>
+    <lastmod>2024-03-04T21:51:50.610Z</lastmod>
   </url>
   <url>
     <loc>https://cezumajo.github.io/scicomm.html</loc>
     <lastmod>2024-02-28T19:34:16.897Z</lastmod>
   </url>
   <url>
-    <loc>https://cezumajo.github.io/publications.html</loc>
-    <lastmod>2024-02-28T19:33:17.979Z</lastmod>
+    <loc>https://cezumajo.github.io/publications/articles/2017-ZumajoCardona-etal/index.html</loc>
+    <lastmod>2024-03-12T20:41:47.644Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2018-ZumajoCardona-etal/index.html</loc>
+    <lastmod>2024-03-12T20:39:40.643Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2016-MBE/index.html</loc>
+    <lastmod>2024-03-12T20:42:27.178Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2021-02-ZumajoCardona-MBE/index.html</loc>
+    <lastmod>2024-03-12T20:27:14.272Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/research.html</loc>
+    <lastmod>2024-02-28T19:32:19.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2020-ZumajoCardona-MPE/index.html</loc>
+    <lastmod>2024-03-12T20:39:05.610Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2021-05-ZumajoCardona-gnetum/index.html</loc>
+    <lastmod>2024-03-12T20:30:09.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/articles/2019-ZumajoCardona-etal/index.html</loc>
+    <lastmod>2024-03-12T20:40:59.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/publications/index.html</loc>
+    <lastmod>2024-03-12T20:45:44.313Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cezumajo.github.io/index.html</loc>
+    <lastmod>2024-03-01T13:49:45.826Z</lastmod>
   </url>
 </urlset>

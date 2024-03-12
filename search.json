@@ -7,13 +7,6 @@
     "text": "twitter\n  \n  \n    \n     Github\n  \n\n\n  \n\n\n\nWelcome!\nGrowing up in a neotropical country, I was exposed to an enormous diversity of plants, which naturally aroused in me curiosity and the desire to know more about them. Until now, my studies and research have mainly focused on the evolution and development of plants. Currently, I am an EMBO postdoctoral researcher at the Università Degli Studi di Milano, working in Colombo’s lab, I received a ‘Seal of Excellence’ from the European commission after applying for the Marie Curie Postdoctoral Fellowship. This position is a very exciting experience for me as I tackle the development of seeds in the model species Arabidopsis thaliana. I obtained my PhD in June 2021, in a joint program between the City University of New York (CUNY) and the New York Botanical Garden (NYBG) with Dr. Barbara Ambrose as my advisor. My doctoral research focused on ovule development of non-model species, particularly on gymnosperms, the first plant lineage where seeds evolved. Given the enormous morphological diversity of seeds, the project included five different species. This research also combined several approaches, such as morphology and anatomy, to describe the developmental stages of the seed in the species selected, and genomic approaches to compare the expression patterns of what is known from the model species Arabidopsis with gymnosperms. In addition, I have used different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data. I invite you to watch my predefense seminar available here. But it was during my undergraduate studies that I fell in love with the evolution and development of plants. Mentored by Prof. Natalia Pabon-Mora, my thesis dissertation was on the evolution of the APETALA2 gene lineage.\nSo far, my research has been the subject of various publications that I invite you to consult Do not hesitate to contact me,\nCecilia Zumajo-Cardona\nVia Celoria 26, Università degli Studi di Milano Milano, Italy.\ncecilia.zumajo@unimi.it"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "this is about my research"
-  },
-  {
     "objectID": "scicomm.html",
     "href": "scicomm.html",
     "title": "Scicomm",
@@ -21,10 +14,164 @@
     "text": "Science communication proyects"
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
+    "objectID": "publications/articles/2017-ZumajoCardona-etal/index.html",
+    "href": "publications/articles/2017-ZumajoCardona-etal/index.html",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "",
+    "text": "Background: SPATULA (SPT) and ALCATRAZ (ALC) are recent paralogs that belong to the large bHLH transcription factor family. Orthologs of these genes have been found in all core eudicots, whereas pre-duplication genes, named paleoSPATULA/ALCATRAZ, have been found in basal eudicots, monocots, basal angiosperms and gymnosperms. Never- theless, functional studies have only been performed in Arabidopsis thaliana, where SPT and ALC are partially redundant in carpel and valve margin development and ALC has a unique role in the dehiscence zone. Further analyses of pre-duplication genes are necessary to assess the functional evolution of this gene lineage. Results: We isolated additional paleoSPT/ALC genes from Aristolochia fimbriata, Bocconia frutescens, Cattleya trianae and Hypoxis decumbens from our transcriptome libraries and performed phylogenetic analyses. We identified the previously described bHLH domain in all analyzed sequences and also new conserved motifs using the MEME suite. Finally, we analyzed the expression of three paleoSPT/ALC genes (BofrSPT1/2/3) from Bocconia frutescens, a basal eudicot in the Papaveraceae. To determine the developmental stages at which these genes were expressed, pre- and post-anthesis carpels and fruits of B. frutescens were collected, sectioned, stained, and examined using light micros- copy. Using in situ hybridization we detected that BofrSPT1/2/3 genes are expressed in floral buds, early sepal initiation, stamens and carpel primordia and later during fruit development in the dehiscence zone of the opercular fruit. Conclusions: Our expression results, in comparison with those available for core eudicots, suggest conserved roles of members of the SPT/ALC gene lineage across eudicots in the specification of carpel margins and the dehiscence zone of the mature fruits. Although there is some redundancy between ALC and SPT, these gene clades seem to have undergone some degree of sub-functionalization in the core eudicots, likely by changes in cis regulatory regions and to some extent in coding sequences, at least in Brassicaceae. Our results also indicate that in Bocconia frutescens, pale- oSPT/ALC genes may play a role in early floral organ specification that was subsequently lost in core eudicot lineages."
+  },
+  {
+    "objectID": "publications/articles/2017-ZumajoCardona-etal/index.html#abstract",
+    "href": "publications/articles/2017-ZumajoCardona-etal/index.html#abstract",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "",
+    "text": "Background: SPATULA (SPT) and ALCATRAZ (ALC) are recent paralogs that belong to the large bHLH transcription factor family. Orthologs of these genes have been found in all core eudicots, whereas pre-duplication genes, named paleoSPATULA/ALCATRAZ, have been found in basal eudicots, monocots, basal angiosperms and gymnosperms. Never- theless, functional studies have only been performed in Arabidopsis thaliana, where SPT and ALC are partially redundant in carpel and valve margin development and ALC has a unique role in the dehiscence zone. Further analyses of pre-duplication genes are necessary to assess the functional evolution of this gene lineage. Results: We isolated additional paleoSPT/ALC genes from Aristolochia fimbriata, Bocconia frutescens, Cattleya trianae and Hypoxis decumbens from our transcriptome libraries and performed phylogenetic analyses. We identified the previously described bHLH domain in all analyzed sequences and also new conserved motifs using the MEME suite. Finally, we analyzed the expression of three paleoSPT/ALC genes (BofrSPT1/2/3) from Bocconia frutescens, a basal eudicot in the Papaveraceae. To determine the developmental stages at which these genes were expressed, pre- and post-anthesis carpels and fruits of B. frutescens were collected, sectioned, stained, and examined using light micros- copy. Using in situ hybridization we detected that BofrSPT1/2/3 genes are expressed in floral buds, early sepal initiation, stamens and carpel primordia and later during fruit development in the dehiscence zone of the opercular fruit. Conclusions: Our expression results, in comparison with those available for core eudicots, suggest conserved roles of members of the SPT/ALC gene lineage across eudicots in the specification of carpel margins and the dehiscence zone of the mature fruits. Although there is some redundancy between ALC and SPT, these gene clades seem to have undergone some degree of sub-functionalization in the core eudicots, likely by changes in cis regulatory regions and to some extent in coding sequences, at least in Brassicaceae. Our results also indicate that in Bocconia frutescens, pale- oSPT/ALC genes may play a role in early floral organ specification that was subsequently lost in core eudicot lineages."
+  },
+  {
+    "objectID": "publications/articles/2017-ZumajoCardona-etal/index.html#citation",
+    "href": "publications/articles/2017-ZumajoCardona-etal/index.html#citation",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "Citation",
+    "text": "Citation\n\nZumajo-Cardona, C., Ambrose, B. A., & Pabón-Mora, N. (2017). Evolution of the SPATULA/ALCATRAZ gene lineage and expression analyses in the basal eudicot, Bocconia frutescens L. (Papaveraceae). EvoDevo, 8(1), 5. https://doi.org/10.1186/s13227-017-0068-8"
+  },
+  {
+    "objectID": "publications/articles/2018-ZumajoCardona-etal/index.html",
+    "href": "publications/articles/2018-ZumajoCardona-etal/index.html",
+    "title": "Duplication and Diversification of REPLUMLESS – A Case Study in the Papaveraceae",
+    "section": "",
+    "text": "There is a vast amount of fruit morphological diversity in terms of their texture, the number of carpels, if those carpels are fused or not and how fruits open to disperse the seeds. Arabidopsis thaliana, a model eudicot, has a dry bicarpellate silique, when the fruit matures, the two valves fall apart through the dehiscence zone leaving the seeds attached to the remaining medial tissue, called the replum. Proper replum development in A. thaliana is mediated by REPLUMLESS (RPL), a TALE Homeodomain protein. RPL represses the valve margin genetic program and the downstream dehiscence zone formation in the medial tissue of the siliques and RPL orthologs have conserved roles across the Brassicaceae eudicots. A RPL homolog, qSH1, has been studied in rice, a monocot, and plays a role in fruit shedding making it difficult to predict functional evolution of this gene lineage across angiosperms. Although RPL orthologs have been identified across all angiosperms, expression and functional analyses are scarce. In order to fill the phylogenetic gap between the Brassicaceae and monocots we have characterized the expression patterns of RPL homologs in two poppies with different fruit types, Bocconia frutescens with operculate valvate dehiscence and a persistent medial tissue, similar to a replum, and Papaver somniferum, a poppy with persistent medial tissue in between the multicarpellate gynoecia. We found that RPL homologs in Papaveraceae have broad expression patterns during plant development; in the shoot apical meristem, during flowering transition and in many floral organs, especially the carpels. These patterns are similar to those of RPL in A. thaliana. However, our results suggest that RPL does not have conserved roles in the maintenance of medial persistent tissues of fruits but may be involved with establishing the putative dehiscence zone in dry poppy fruits."
+  },
+  {
+    "objectID": "publications/articles/2018-ZumajoCardona-etal/index.html#abstract",
+    "href": "publications/articles/2018-ZumajoCardona-etal/index.html#abstract",
+    "title": "Duplication and Diversification of REPLUMLESS – A Case Study in the Papaveraceae",
+    "section": "",
+    "text": "There is a vast amount of fruit morphological diversity in terms of their texture, the number of carpels, if those carpels are fused or not and how fruits open to disperse the seeds. Arabidopsis thaliana, a model eudicot, has a dry bicarpellate silique, when the fruit matures, the two valves fall apart through the dehiscence zone leaving the seeds attached to the remaining medial tissue, called the replum. Proper replum development in A. thaliana is mediated by REPLUMLESS (RPL), a TALE Homeodomain protein. RPL represses the valve margin genetic program and the downstream dehiscence zone formation in the medial tissue of the siliques and RPL orthologs have conserved roles across the Brassicaceae eudicots. A RPL homolog, qSH1, has been studied in rice, a monocot, and plays a role in fruit shedding making it difficult to predict functional evolution of this gene lineage across angiosperms. Although RPL orthologs have been identified across all angiosperms, expression and functional analyses are scarce. In order to fill the phylogenetic gap between the Brassicaceae and monocots we have characterized the expression patterns of RPL homologs in two poppies with different fruit types, Bocconia frutescens with operculate valvate dehiscence and a persistent medial tissue, similar to a replum, and Papaver somniferum, a poppy with persistent medial tissue in between the multicarpellate gynoecia. We found that RPL homologs in Papaveraceae have broad expression patterns during plant development; in the shoot apical meristem, during flowering transition and in many floral organs, especially the carpels. These patterns are similar to those of RPL in A. thaliana. However, our results suggest that RPL does not have conserved roles in the maintenance of medial persistent tissues of fruits but may be involved with establishing the putative dehiscence zone in dry poppy fruits."
+  },
+  {
+    "objectID": "publications/articles/2018-ZumajoCardona-etal/index.html#citation",
+    "href": "publications/articles/2018-ZumajoCardona-etal/index.html#citation",
+    "title": "Duplication and Diversification of REPLUMLESS – A Case Study in the Papaveraceae",
+    "section": "Citation",
+    "text": "Citation\n\nZumajo-Cardona, C., Ambrose, B. A., & Pabón-Mora, N. (2017). Evolution of the SPATULA/ALCATRAZ gene lineage and expression analyses in the basal eudicot, Bocconia frutescens L. (Papaveraceae). EvoDevo, 8(1), 5. https://doi.org/10.1186/s13227-017-0068-8"
+  },
+  {
+    "objectID": "publications/articles/2016-MBE/index.html",
+    "href": "publications/articles/2016-MBE/index.html",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "",
+    "text": "Gene duplication is a fundamental source of functional evolutionary change and has been associated with organ- ismal diversification and the acquisition of novel features. The APETALA2/ETHYLENE RESPONSIVE ELEMENT- BINDING FACTOR (AP2/ERF) genes are exclusive to vascular plants and have been classified into the AP2-like and ERF-like clades. The AP2-like clade includes the AINTEGUMENTA (ANT) and the euAPETALA2 (euAP2) genes, both regulated by miR172. Arabidopsis has two paralogs in the euAP2 clade, namely APETALA2 (AP2) and TARGET OF EAT3 (TOE3) that control flowering time, meristem determinacy, sepal and petal identity and fruit development. euAP2 genes are likely functionally divergent outside Brassicaceae, as they control fruit development in tomato, and regulate inflorescence meristematic activity in maize. We studied the evolution and expression patterns of euAP2/ TOE3 genes to assess large scale and local duplications and evaluate protein motifs likely related with functional changes across seed plants. We sampled euAP2/TOE3 genes from vascular plants and have found three major duplications and a few taxon-specific duplications. Here, we report conserved and new motifs across euAP2/ TOE3 proteins and conclude that proteins predating the Brassicaceae duplication are more similar to AP2 than TOE3. Expression data show a shift from restricted expression in leaves, carpels, and fruits in non-core eudicots and asterids to a broader expression of euAP2 genes in leaves, all floral organs and fruits in rosids. Altogether, our data show a functional trend where the canonical A-function (sepal and petal identity) is exclusive to Brassicaceae and it is likely not maintained outside of rosids."
+  },
+  {
+    "objectID": "publications/articles/2016-MBE/index.html#abstract",
+    "href": "publications/articles/2016-MBE/index.html#abstract",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "",
+    "text": "Gene duplication is a fundamental source of functional evolutionary change and has been associated with organ- ismal diversification and the acquisition of novel features. The APETALA2/ETHYLENE RESPONSIVE ELEMENT- BINDING FACTOR (AP2/ERF) genes are exclusive to vascular plants and have been classified into the AP2-like and ERF-like clades. The AP2-like clade includes the AINTEGUMENTA (ANT) and the euAPETALA2 (euAP2) genes, both regulated by miR172. Arabidopsis has two paralogs in the euAP2 clade, namely APETALA2 (AP2) and TARGET OF EAT3 (TOE3) that control flowering time, meristem determinacy, sepal and petal identity and fruit development. euAP2 genes are likely functionally divergent outside Brassicaceae, as they control fruit development in tomato, and regulate inflorescence meristematic activity in maize. We studied the evolution and expression patterns of euAP2/ TOE3 genes to assess large scale and local duplications and evaluate protein motifs likely related with functional changes across seed plants. We sampled euAP2/TOE3 genes from vascular plants and have found three major duplications and a few taxon-specific duplications. Here, we report conserved and new motifs across euAP2/ TOE3 proteins and conclude that proteins predating the Brassicaceae duplication are more similar to AP2 than TOE3. Expression data show a shift from restricted expression in leaves, carpels, and fruits in non-core eudicots and asterids to a broader expression of euAP2 genes in leaves, all floral organs and fruits in rosids. Altogether, our data show a functional trend where the canonical A-function (sepal and petal identity) is exclusive to Brassicaceae and it is likely not maintained outside of rosids."
+  },
+  {
+    "objectID": "publications/articles/2016-MBE/index.html#citation",
+    "href": "publications/articles/2016-MBE/index.html#citation",
+    "title": "Evolution of the APETALA2 Gene lineage in Seed Plants",
+    "section": "Citation",
+    "text": "Citation\n\nAlzate-Guarin, F. A., Gil Q., J. A., Jiménez-Úsuga, N. del S., Arango-Acosta, G. J., & Weniger, B. (2011). Antioxidant potential of some species of the genus Bomarea (Alstroemeriaceae). Vitae, 18(2), 201–207. https://doi.org/10.17533/udea.vitae.10061"
+  },
+  {
+    "objectID": "publications/articles/2021-02-ZumajoCardona-MBE/index.html",
+    "href": "publications/articles/2021-02-ZumajoCardona-MBE/index.html",
+    "title": "The Evolution of euAPETALA2 Genes in Vascular Plants: From Plesiomorphic Roles in Sporangia to Acquired Functions in Ovules and Fruits",
+    "section": "",
+    "text": "The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In Arabidopsis thaliana, APETALA2 (AP2) plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the euAPETALA2 (euAP2) clade, whose founding member is AP2. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of euAP2/TOE3 genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of euAP2 homologs during development are most likely due to changes in regulatory regions."
+  },
+  {
+    "objectID": "publications/articles/2021-02-ZumajoCardona-MBE/index.html#abstract",
+    "href": "publications/articles/2021-02-ZumajoCardona-MBE/index.html#abstract",
+    "title": "The Evolution of euAPETALA2 Genes in Vascular Plants: From Plesiomorphic Roles in Sporangia to Acquired Functions in Ovules and Fruits",
+    "section": "",
+    "text": "The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In Arabidopsis thaliana, APETALA2 (AP2) plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the euAPETALA2 (euAP2) clade, whose founding member is AP2. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of euAP2/TOE3 genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of euAP2 homologs during development are most likely due to changes in regulatory regions."
+  },
+  {
+    "objectID": "publications/articles/2021-02-ZumajoCardona-MBE/index.html#citation",
+    "href": "publications/articles/2021-02-ZumajoCardona-MBE/index.html#citation",
+    "title": "The Evolution of euAPETALA2 Genes in Vascular Plants: From Plesiomorphic Roles in Sporangia to Acquired Functions in Ovules and Fruits",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "this is about my research"
+  },
+  {
+    "objectID": "publications/articles/2020-ZumajoCardona-MPE/index.html",
+    "href": "publications/articles/2020-ZumajoCardona-MPE/index.html",
+    "title": "Phylogenetic analyses of key developmental genes provide insight into the complex evolution of seeds",
+    "section": "",
+    "text": "Gene duplication plays a decisive role in organismal diversification and in the appearance of novel structures. In plants the megagametophyte covered by the integuments, which after fertilization becomes the seed constitutes a novel structure: the ovule. In Arabidopsis thaliana, genetic mechanisms regulating ovule development, including the genetics underlying ovule initiation, ovule patterning and integument development, have been identified. Among seed plants, integuments are not only a novelty in evolution, but integuments also present an enormous morphological variation. This study is focused on the evolution of gene families that play a role in the proper morphological development of the integuments, BELL1 (BEL1), KANADIs (KAN1, KAN2, and KAN4/ATS), UNICORN (UCN) and SHORT INTEGUMENTS1 (SIN1). In Arabidopsis, BEL1 establishes the initiation of integument development. KAN1 and 2 act in the proper development of the outer integument. While ABERRANT TESTA SHAPE (ATS), is involved in the correct separation of both integuments. UCN acts in planar growth of the outer integument repressing ATS. SIN1 is involved in cell elongation in the integuments. The results of our analyses show that each of these genes has a different evolutionary history and that while gymnosperms appear to have a simpler ovule morphology, they have more homologues of these candidate genes than angiosperms. In addition, we present the conserved and novel motifs for each of these genes among seed plants and their selection constraints, which may be related to functional changes and to the diversity of ovule morphologies."
+  },
+  {
+    "objectID": "publications/articles/2020-ZumajoCardona-MPE/index.html#abstract",
+    "href": "publications/articles/2020-ZumajoCardona-MPE/index.html#abstract",
+    "title": "Phylogenetic analyses of key developmental genes provide insight into the complex evolution of seeds",
+    "section": "",
+    "text": "Gene duplication plays a decisive role in organismal diversification and in the appearance of novel structures. In plants the megagametophyte covered by the integuments, which after fertilization becomes the seed constitutes a novel structure: the ovule. In Arabidopsis thaliana, genetic mechanisms regulating ovule development, including the genetics underlying ovule initiation, ovule patterning and integument development, have been identified. Among seed plants, integuments are not only a novelty in evolution, but integuments also present an enormous morphological variation. This study is focused on the evolution of gene families that play a role in the proper morphological development of the integuments, BELL1 (BEL1), KANADIs (KAN1, KAN2, and KAN4/ATS), UNICORN (UCN) and SHORT INTEGUMENTS1 (SIN1). In Arabidopsis, BEL1 establishes the initiation of integument development. KAN1 and 2 act in the proper development of the outer integument. While ABERRANT TESTA SHAPE (ATS), is involved in the correct separation of both integuments. UCN acts in planar growth of the outer integument repressing ATS. SIN1 is involved in cell elongation in the integuments. The results of our analyses show that each of these genes has a different evolutionary history and that while gymnosperms appear to have a simpler ovule morphology, they have more homologues of these candidate genes than angiosperms. In addition, we present the conserved and novel motifs for each of these genes among seed plants and their selection constraints, which may be related to functional changes and to the diversity of ovule morphologies."
+  },
+  {
+    "objectID": "publications/articles/2020-ZumajoCardona-MPE/index.html#citation",
+    "href": "publications/articles/2020-ZumajoCardona-MPE/index.html#citation",
+    "title": "Phylogenetic analyses of key developmental genes provide insight into the complex evolution of seeds",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html",
+    "href": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html",
+    "title": "Deciphering the evolution of the ovule genetic network through expression analyses in Gnetum gnemon",
+    "section": "",
+    "text": "The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In Arabidopsis thaliana, APETALA2 (AP2) plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the euAPETALA2 (euAP2) clade, whose founding member is AP2. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of euAP2/TOE3 genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of euAP2 homologs during development are most likely due to changes in regulatory regions."
+  },
+  {
+    "objectID": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html#abstract",
+    "href": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html#abstract",
+    "title": "Deciphering the evolution of the ovule genetic network through expression analyses in Gnetum gnemon",
+    "section": "",
+    "text": "The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In Arabidopsis thaliana, APETALA2 (AP2) plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the euAPETALA2 (euAP2) clade, whose founding member is AP2. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of euAP2/TOE3 genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of euAP2 homologs during development are most likely due to changes in regulatory regions."
+  },
+  {
+    "objectID": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html#citation",
+    "href": "publications/articles/2021-05-ZumajoCardona-gnetum/index.html#citation",
+    "title": "Deciphering the evolution of the ovule genetic network through expression analyses in Gnetum gnemon",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "publications/articles/2019-ZumajoCardona-etal/index.html",
+    "href": "publications/articles/2019-ZumajoCardona-etal/index.html",
+    "title": "The Evolution of the KANADI Gene Family and Leaf Development in Lycophytes and Ferns",
+    "section": "",
+    "text": "Leaves constitute the main photosynthetic plant organ and even though their importance is not debated, the origin and development of leaves still is. The leaf developmental network has been elucidated for angiosperms, from genes controlling leaf initiation, to leaf polarity and shape. There are four KANADI (KAN) paralogs in Arabidopsis thaliana needed for organ polarity with KAN1 and KAN2 specifying abaxial leaf identity. Yet, studies of this gene lineage outside angiosperms are required to better understand the evolutionary patterns of leaf development and the role of KAN homologs. We studied the evolution of KAN genes across vascular plants and their expression by in situ hybridization in the fern, Equisetum hyemale and the lycophyte Selaginella moellendorffii. Our results show that the expression of KAN genes in leaves is similar between ferns and angiosperms. However, the expression patterns observed in the lycophyte S. moellendorffii are significantly different compared to all other vascular plants, suggesting that the KAN function in leaf polarity is likely only conserved across ferns, gymnosperms, and angiosperms. This study indicates that mechanisms for leaf development are different in lycophytes compared to other vascular plants."
+  },
+  {
+    "objectID": "publications/articles/2019-ZumajoCardona-etal/index.html#abstract",
+    "href": "publications/articles/2019-ZumajoCardona-etal/index.html#abstract",
+    "title": "The Evolution of the KANADI Gene Family and Leaf Development in Lycophytes and Ferns",
+    "section": "",
+    "text": "Leaves constitute the main photosynthetic plant organ and even though their importance is not debated, the origin and development of leaves still is. The leaf developmental network has been elucidated for angiosperms, from genes controlling leaf initiation, to leaf polarity and shape. There are four KANADI (KAN) paralogs in Arabidopsis thaliana needed for organ polarity with KAN1 and KAN2 specifying abaxial leaf identity. Yet, studies of this gene lineage outside angiosperms are required to better understand the evolutionary patterns of leaf development and the role of KAN homologs. We studied the evolution of KAN genes across vascular plants and their expression by in situ hybridization in the fern, Equisetum hyemale and the lycophyte Selaginella moellendorffii. Our results show that the expression of KAN genes in leaves is similar between ferns and angiosperms. However, the expression patterns observed in the lycophyte S. moellendorffii are significantly different compared to all other vascular plants, suggesting that the KAN function in leaf polarity is likely only conserved across ferns, gymnosperms, and angiosperms. This study indicates that mechanisms for leaf development are different in lycophytes compared to other vascular plants."
+  },
+  {
+    "objectID": "publications/articles/2019-ZumajoCardona-etal/index.html#citation",
+    "href": "publications/articles/2019-ZumajoCardona-etal/index.html#citation",
+    "title": "The Evolution of the KANADI Gene Family and Leaf Development in Lycophytes and Ferns",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
     "title": "Publications",
     "section": "",
-    "text": "List of publications"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Author\n        \n         \n          Publication\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDeciphering the evolution of the ovule genetic network through expression analyses in Gnetum gnemon\n\n\n\n\n\n\nAP2/TOE3\n\n\ncooption\n\n\nevo–devo\n\n\ngene lineage evolution\n\n\nmorphological innovations\n\n\nsporangium development\n\n\n\n\n\n\n\n\n\nMay 1, 2021\n\n\nCecilia Zumajo-Cardona, Barbara Ann Ambrose\n\n\nAnnals of Botany\n\n\n\n\n\n\n\nThe Evolution of euAPETALA2 Genes in Vascular Plants: From Plesiomorphic Roles in Sporangia to Acquired Functions in Ovules and Fruits\n\n\n\n\n\n\nAP2/TOE3\n\n\ncooption\n\n\nevo–devo\n\n\ngene lineage evolution\n\n\nmorphological innovations\n\n\nsporangium development\n\n\n\n\n\n\n\n\n\nFeb 1, 2021\n\n\nCecilia Zumajo-Cardona, Natalia Pabón-Mora, Barbara Ann Ambrose\n\n\nMolecular Biology and Evolution\n\n\n\n\n\n\n\nPhylogenetic analyses of key developmental genes provide insight into the complex evolution of seeds\n\n\n\n\n\n\nABERRANT TESTA SHAPE\n\n\nBELL1\n\n\nGene duplication\n\n\nGene evolution\n\n\nKANADI\n\n\nUNICORN\n\n\nSeed plants\n\n\nSHORT INTEGUMENTS1\n\n\n\n\n\n\n\n\n\nMar 1, 2020\n\n\nCecilia Zumajo-Cardona, Barbara Ann Ambrose\n\n\nMolecular Phylogenetics and Evolution\n\n\n\n\n\n\n\nThe Evolution of the KANADI Gene Family and Leaf Development in Lycophytes and Ferns\n\n\n\n\n\n\nEquisetum\n\n\nFerns\n\n\nin situ hybridization\n\n\nlycophytes\n\n\nKANADI\n\n\nmegaphyll\n\n\nmicrophyll\n\n\nplant evo-devo\n\n\nSelaginella\n\n\ntelome theory\n\n\n\n\n\n\n\n\n\nAug 1, 2019\n\n\nCecilia Zumajo-Cardona, Alejandra Vasco, Barbara Ann Ambrose\n\n\nPlants\n\n\n\n\n\n\n\nDuplication and Diversification of REPLUMLESS – A Case Study in the Papaveraceae\n\n\n\n\n\n\nBasal eudicots\n\n\nBocconia frutescens\n\n\nFruit development\n\n\nPapaveraceae\n\n\nPapaver somiferum\n\n\nREPLUMLESS\n\n\nReplum\n\n\n\n\n\n\n\n\n\nDec 1, 2018\n\n\nCecilia Zumajo-Cardona, Natalia Pabón-Mora, Barbara Ann Ambrose\n\n\nFrontiers in Plant Sciences\n\n\n\n\n\n\n\nEvolution of the APETALA2 Gene lineage in Seed Plants\n\n\n\n\n\n\nALCATRAZ\n\n\nBasal eudicots\n\n\nBocconia frutescens\n\n\nFruit development\n\n\npaleoSPT/ALC\n\n\nPapaveraceae\n\n\nSPATULA\n\n\n\n\n\n\n\n\n\nJul 1, 2017\n\n\nCecilia Zumajo-Cardona, Barbara Ann Ambrose, Natalia Pabón-Mora\n\n\nEvoDevo\n\n\n\n\n\n\n\nEvolution of the APETALA2 Gene lineage in Seed Plants\n\n\n\n\n\n\nAPETALA2\n\n\nAP2\n\n\nERF\n\n\nseed plants\n\n\ngene duplication\n\n\ngene evolution\n\n\n\n\n\n\n\n\n\nMar 1, 2016\n\n\nCecilia Zumajo-Cardona, Natalia Pabón-Mora\n\n\nMolecular Biology and Evolution\n\n\n\n\n\n\nNo matching items"
   }
 ]
