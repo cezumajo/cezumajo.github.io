@@ -1,0 +1,24 @@
+---
+title: "Expression analyses in <i>Ginkgo biloba</i> provide new insights into the evolution and development of the seed"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Damon P. Little
+  - name: Dennis Stevenson
+  - name: Barbara Ann Ambrose
+year: 2021
+date: 2021-07
+publication: Scientific Reports 
+doi: https://doi.org/10.1038/s41598-021-01483-0
+materials: ""
+
+---
+
+## Abstract
+
+Although the seed is a key morphological innovation, its origin remains unknown and molecular data outside angiosperms is still limited. *Ginkgo biloba*, with a unique place in plant evolution, being one of the first extant gymnosperms where seeds evolved, can testify to the evolution and development of the seed. Initially, to better understand the development of the ovules in *Ginkgo biloba* ovules, we performed spatio‐temporal expression analyses in seeds at early developing stages, of six candidate gene homologues known in angiosperms: *WUSCHEL, AINTEGUMENTA, BELL1, KANADI, UNICORN*, and *C3HDZip*. Surprisingly, the expression patterns of most these ovule homologues indicate that they are not wholly conserved between angiosperms and *Ginkgo biloba*. Consistent with previous studies on early diverging seedless plant lineages, ferns, lycophytes, and bryophytes, many of these candidate genes are mainly expressed in mega‐ and microsporangia. Through in‐depth comparative transcriptome analyses of *Ginkgo biloba* developing ovules, pollen cones, and megagametophytes we have been able to identify novel genes, likely involved in ovule development. Finally, our expression analyses support the synangial or neo‐synangial hypotheses for the origin of the seed, where the sporangium developmental network was likely co‐opted and restricted during integument evolution.
+
+
+## Citation
+
+>Zumajo-Cardona, C., Little, D. P., Stevenson, D., &amp; Ambrose, B. A. (2021). Expression analyses in <i>Ginkgo biloba</i> provide new insights into the evolution and development of the seed. <i>Scientific Reports</i>, <i>11</i>(1), 21995. https://doi.org/10.1038/s41598-021-01483-0

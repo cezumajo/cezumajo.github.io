@@ -1,0 +1,33 @@
+---
+title: "Fleshy or dry: transcriptome analyses reveal the genetic mechanisms underlying bract development in <i>Ephedra</i>"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Barbara Ann Ambrose
+year: 2022
+date: 2022-05
+publication: EvoDevo 
+doi: https://doi.org/10.1186/s13227-022-00195-4
+materials: ""
+
+categories:
+  - Convergent evolution
+  - Gnetales
+  - Integument
+  - Model organisms
+  - Ovule
+  - RNAseq
+  - Seed development
+---
+
+## Abstract
+
+**Background:** Gnetales have a key phylogenetic position in the evolution of seed plants. Among the Gnetales, there is an extraordinary morphological diversity of seeds, the genus *Ephedra*, in particular, exhibits fleshy, coriaceous or winged (dry) seeds. Despite this striking diversity, its underlying genetic mechanisms remain poorly understood due to the limited studies in gymnosperms. Expanding the genomic and developmental data from gymnosperms con‐ tributes to a better understanding of seed evolution and development.
+
+**Results:** We performed transcriptome analyses on different plant tissues of two Ephedra species with different seed morphologies. Anatomical observations in early developing ovules, show that differences in the seed morphologies are established early in their development. The transcriptomic analyses in dry‐seeded *Ephedra californica* and fleshy‐seeded *Ephedra antisyphilitica*, allowed us to identify the major differences between the differentially expressed genes in these species. We detected several genes known to be involved in fruit ripening as upregulated in the fleshy seed of *Ephedra antisyphilitica*.
+
+**Conclusions:** This study allowed us to determine the differentially expressed genes involved in seed development of two Ephedra species. Furthermore, the results of this study of seeds with the enigmatic morphology in *Ephedra californica* and *Ephedra antisyphilitica*, allowed us to corroborate the hypothesis which suggest that the extra envelopes covering the seeds of Gnetales are not genetically similar to integument. Our results highlight the importance of carrying out studies on less explored species such as gymnosperms, to gain a better understanding of the evolutionary history of plants.
+
+## Citation
+
+> Zumajo-Cardona, C., & Ambrose, B. A. (2022). Fleshy or dry: Transcriptome analyses reveal the genetic mechanisms underlying bract development in <i>Ephedra</i>. <i>EvoDevo</i>, <i>13</i>(1), 10. https://doi.org/10.1186/s13227-022-00195-4

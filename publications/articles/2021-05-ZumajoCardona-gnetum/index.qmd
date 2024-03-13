@@ -11,16 +11,27 @@ doi: 10.1093/aob/mcab059
 materials: ""
 
 categories:
-  - AP2/TOE3
-  - cooption
-  - evo–devo
-  - gene lineage evolution
-  - morphological innovations 
-  - sporangium development
+  - AINTEGUMENTA
+  - BELL1
+  - Gnetum
+  - integument
+  - KANADI
+  - seed evolution
+  - neosynangial hypothesis
+  - UNICORN
 ---
 
 ## Abstract
 
-The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In *Arabidopsis thaliana*, *APETALA2 (AP2)* plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the *AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR* family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the *euAPETALA2 (euAP2)* clade, whose founding member is *AP2*. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of *euAP2/TOE3* genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of *euAP2* homologs during development are most likely due to changes in regulatory regions.
+• **Background and aims** The ovule is a synapomorphy of all seed plants (gymnosperms and angiosperms); however, there are some striking differences in ovules among the major seed plant lineages, such as the number of integuments or the orientation of the ovule. The genetics involved in ovule development have been well studied in the model species *Arabidopsis thaliana*, which has two integuments and anatropous orientation. This study is approached from what is known in arabidopsis, focusing on the expression patterns of homologues of four genes known to be key for the proper development of the integuments in arabidopsis: *AINTEGUMENTA (ANT), BELL1, (BEL1), KANADIs (KANs)* and *UNICORN (UCN)*.
+
+• **Methods** We used histology to describe the morphoanatomical development from ovules to seeds in *Gnetum gnemon*. We carried out spatiotemporal expression analyses in *G. gnemon*, a gymnosperm, which has a unique ovule morphology with an integument covering the nucellus, two additional envelopes where the outermost becomes fleshy as the seed matures, and an orthotropous orientation.
+
+• **Key Results** Our anatomical and developmental descriptions provide a framework for expression analyses in the ovule of *G. gnemon*. Our expression results show that although *ANT, KAN* and *UCN* homologues are expressed in the inner integument, their spatiotemporal patterns differ from those found in angiosperms. Furthermore, all homologues studied here are expressed in the nucellus, revealing major differences in seed plants. Finally, no expression of the studied homologues was detected in the outer envelopes.
+
+• **Conclusions** Altogether, these analyses provide significant comparative data that allows us to better understand the functional evolution of these gene lineages, providing a compelling framework for evolutionary and develop- mental studies of seeds. Our findings suggest that these genes were most likely recruited from the sporangium development network and became restricted to the integuments of angiosperm ovules.
+
 
 ## Citation
+
+>Zumajo-Cardona, C., &amp; Ambrose, B. A. (2021). Deciphering the evolution of the ovule genetic network through expression analyses in <i>Gnetum gnemon</i>. <i>Annals of Botany</i>, <i>128</i>(2), 217-230. https://doi.org/10.1093/aob/mcab059

@@ -1,0 +1,31 @@
+---
+title: "Maternal control of triploid seed development
+by the <i>TRANSPARENT TESTA 8 (TT8)</i> transcription factor
+in <i>Arabidopsis thaliana</i>"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Manuel Aguirre
+  - name: Rosa Castillo-Bravo
+  - name: Chiara Mizzotti
+  - name: Maurizio Di Marzo
+  - name: Camilla Banfi
+  - name: Marta A. Mendes
+  - name: Charles Spillane
+  - name: Lucia Colombo
+  - name: Ignacio Ezquer
+year: 2023
+date: 2023-01
+publication: Scientific Reports
+doi: https://doi.org/10.1038/s41598-023-28252-5
+materials: ""
+---
+
+## Abstract
+
+The balance between parental genome dosage is critical to offspring development in both animals
+and plants. In some angiosperm species, despite the imbalance between maternally and paternally inherited chromosome sets, crosses between parental lines of different ploidy may result in viable offspring. However, many plant species, like *Arabidopsis thaliana*, present a post‐zygotic reproductive barrier, known as triploid block which results in the inability of crosses between individuals of different ploidy to generate viable seeds but also, in defective development of the seed. Several paternal regulators have been proposed as active players in establishing the triploid block. Maternal regulators known to be involved in this process are some flavonoid biosynthetic (FB) genes, expressed in the innermost layer of the seed coat. Here we explore the role of selected flavonoid pathway genes in triploid block, including *TRANSPARENT TESTA 4 (TT4), TRANSPARENT TESTA 7 (TT7), SEEDSTICK (STK), TRANSPARENT TESTA 16 (TT16), TT8* and *TRANSPARENT TESTA 13 (TT13)*. This approach allowed us to detect that *TT8*, a bHLH transcription factor, member of this FB pathway is required for the paternal genome dosage, as loss of function tt8, leads to complete rescue of the triploid block to seed development.
+
+## Citation
+
+>Zumajo-Cardona, C., Aguirre, M., Castillo-Bravo, R., Mizzotti, C., Di Marzo, M., Banfi, C., Mendes, M. A., Spillane, C., Colombo, L., &amp; Ezquer, I. (2023). Maternal control of triploid seed development by the TRANSPARENT TESTA 8 (Tt8) transcription factor in <i>Arabidopsis thaliana</i>. <i>Scientific Reports</i>, <i>13</i>(1), 1316. https://doi.org/10.1038/s41598-023-28252-5

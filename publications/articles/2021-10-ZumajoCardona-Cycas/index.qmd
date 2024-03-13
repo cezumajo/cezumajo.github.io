@@ -1,0 +1,29 @@
+---
+title: "Seed anatomy and development in cycads and Ginkgo, keys for understanding the evolution of seeds"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Samantha Frangos
+  - name: Dennis W. Stevenson
+year: 2021
+date: 2021-10
+publication: Flora 
+doi: https://doi.org/10.1016/j.flora.2021.151951
+materials: ""
+
+categories:
+  - Cycadales
+  - Ginkgo
+  - Integument
+  - Morpho-anatomy
+  - Ovule
+  - Seed
+---
+
+## Abstract
+
+Cycadales and Ginkgoales constitute two of the most ancient lineages of extant seed plants and as such are prime candidates for the study of the evolution of seeds and the genes involved. The ovules of these plant lineages are formed by a single massive integument that, as the ovule matures into a seed, is comprised of a stony layer covered by a fleshy seed coat. However, literature on their seed morphology and anatomy, which is key for understanding the evolution of land plants, is scarce and not easily accessible. Here we provide a literature review highlighting the diversity of ovule and megastrobilus morphologies. Additionally, we present further morphological and anatomical descriptions, making a comprehensive description of ovulated structures in Cycadales. In general, the integument is similar amongst these species, with three well differentiated zones: sarcotesta, sclerotesta and endotesta, from the outer most zone to the inner most zone. Cycad ovules have two sets of vascular bundles: one in the sarcotesta and another one in the region between the endotesta and the nucellus (i.e., the pachychalaza). However, Ginkgo does not have any vasculature in the ovule. Other differences between species that are mainly related with the number of cell layers and to the abundance and the location of ergastic substances.
+
+## Citation
+
+>Zumajo-Cardona, C., Frangos, S., &amp; Stevenson, D. W. (2021). Seed anatomy and development in cycads and Ginkgo, keys for understanding the evolution of seeds. <i>Flora</i>, <i>285</i>, 151951. https://doi.org/10.1016/j.flora.2021.151951

@@ -1,5 +1,5 @@
 ---
-title: "Evolution of the <i>APETALA2</i> Gene lineage in Seed Plants"
+title: "Evolution of the <i>SPATULA/ALCATRAZ</i> gene lineage and expression analyses in the basal eudicot, <i>Bocconia frutescens</i> L. (Papaveraceae)"
 author:
   - name: "**Cecilia Zumajo-Cardona**"
     orcid: 0000-0002-9516-6112
@@ -8,7 +8,7 @@ author:
 year: 2017
 date: 2017-07
 publication: EvoDevo
-doi: doi.org/10.1186/s13227-017-0068-8
+doi: https://doi.org/10.1186/s13227-017-0068-8
 materials: ""
 
 categories:

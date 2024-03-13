@@ -1,0 +1,38 @@
+---
+title: "Evolutionary studies of the bHLH transcription factors belonging to MBW complex: their role in seed development"
+author:
+  - name: "**Cecilia Zumajo-Cardona**"
+    orcid: 0000-0002-9516-6112
+  - name: Flavio Gabrieli
+  - name: Jovannemar Anire
+  - name: Emidio Albertini
+  - name: Ignacio Ezquer
+  - name: Lucia Colombo
+year: 2023
+date: 2023-09
+publication: Annals of Botany
+doi: https://doi.org/10.1093/aob/mcad097
+materials: ""
+
+categories:
+  - Flavonoids
+  - Postzygotic barriers
+  - Protein complexes
+  - seed coat
+  - TRANSPARENT TESTA 8
+  - Triploid block
+---
+
+## Abstract
+
+• **Background and aims** The MBW complex consist of proteins belonging to three major families (MYB, bHLH and WDR) involved in various processes throughout plant development: epidermal cell development, mucilage secretory cells and flavonoid biosynthesis. Recently, it has been reported that *TT8*, encoding a bHLH transcription factor, is involved in the biosynthesis of flavonoids in the seed coat and it also plays a role in bypassing the postzygotic barrier resulting from an unbalance in genetic loads of the parental lines. Here, we focus on the functional evolution, in seed development, of the bHLH proteins that are part of the MBW complex, complemented with a literature review.
+
+• **Methods** Phylogenetic analyses performed across seed plants and expression analyses in the reproductive tissues of four selected angiosperms (*Arabidopsis thaliana, Brassica napus, Capsella rubella* and *Solanum lycopersicum*) allow us to hypothesize on the evolution of its functions.
+
+• **Key Results** *TT8* expression in the innermost layer of the seed coat is conserved in the selected angiosperms. However, except for Arabidopsis, *TT8* is also expressed in ovules, carpels and fruits. The homologues belonging to the sister clade of *TT8, EGL3/GL3*, involved in trichome development, are expressed in the outermost layer of the seed coat, suggesting potential roles in mucilage.
+
+• **Conclusions** The ancestral function of these genes appears to be flavonoid biosynthesis, and the conservation of TT8 expression patterns in the innermost layer of the seed coat in angiosperms suggests that their function in postzygotic barriers might also be conserved. Moreover, the literature review and the results of the present study suggest a sophisticated association, linking the mechanisms of action of these genes to the cross-communication activity between the different tissues of the seed. Thus, it provides avenues to study the mechanisms of action of *TT8* in the postzygotic triploid block, which is crucial because it impacts seed development in unbalanced crosses.
+
+## Citation
+
+>Zumajo-Cardona, C., Gabrieli, F., Anire, J., Albertini, E., Ezquer, I., &amp; Colombo, L. (2023). Evolutionary studies of the bHLH transcription factors belonging to MBW complex: Their role in seed development. <i>Annals of Botany</i>, <i>132</i>(3), 383-400. https://doi.org/10.1093/aob/mcad097

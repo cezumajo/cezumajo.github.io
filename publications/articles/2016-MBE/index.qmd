@@ -25,4 +25,5 @@ Gene duplication is a fundamental source of functional evolutionary change and h
 
 ## Citation
 
-> Alzate-Guarin, F. A., Gil Q., J. A., Jiménez-Úsuga, N. del S., Arango-Acosta, G. J., & Weniger, B. (2011). Antioxidant potential of some species of the genus *Bomarea* (Alstroemeriaceae). *Vitae*, 18(2), 201--207. <https://doi.org/10.17533/udea.vitae.10061>
+>Zumajo-Cardona, C., & Pabón-Mora, N. (2016). Evolution of the *APETALA2* gene lineage in seed plants. Molecular Biology and Evolution, 33(7), 1818–1832. https://doi.org/10.1093/molbev/msw059
+

@@ -18,7 +18,6 @@ categories:
   - gene lineage evolution
   - morphological innovations 
   - sporangium development
-
 ---
 
 ## Abstract
@@ -26,3 +25,5 @@ categories:
 The field of evolutionary developmental biology can help address how morphological novelties evolve, a key question in evolutionary biology. In *Arabidopsis thaliana*, *APETALA2 (AP2)* plays a role in the development of key plant innovations including seeds, flowers, and fruits. AP2 belongs to the *AP2/ETHYLENE RESPONSIVE ELEMENT BINDING FACTOR* family which has members in all viridiplantae, making it one of the oldest and most diverse gene lineages. One key subclade, present across vascular plants is the *euAPETALA2 (euAP2)* clade, whose founding member is *AP2*. We reconstructed the evolution of the euAP2 gene lineage in vascular plants to better understand its impact on the morphological evolution of plants, identifying seven major duplication events. We also performed spatiotemporal expression analyses of *euAP2/TOE3* genes focusing on less explored vascular plant lineages, including ferns, gymnosperms, early diverging angiosperms and early diverging eudicots. Altogether, our data suggest that euAP2 genes originally contributed to spore and sporangium development, and were subsequently recruited to ovule, fruit and floral organ development. Finally, euAP2 protein sequences are highly conserved; therefore, changes in the role of *euAP2* homologs during development are most likely due to changes in regulatory regions.
 
 ## Citation
+
+>Zumajo-Cardona, C., Pabón-Mora, N., &amp; Ambrose, B. A. (2021). The evolution of <i>euAPETALA2</i> genes in vascular plants: From plesiomorphic roles in sporangia to acquired functions in ovules and fruits. <i>Molecular Biology and Evolution</i>, <i>38</i>(6), 2319-2336. https://doi.org/10.1093/molbev/msab027
