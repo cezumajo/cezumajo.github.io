@@ -7,7 +7,7 @@ website:
     right:
       - href: about.qmd
         # text: Home
-      - research.qmd
+      - "research/index.qmd"
       - "publications/index.qmd"
       - scicomm.qmd
     tools:

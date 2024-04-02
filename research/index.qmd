@@ -1,0 +1,28 @@
+---
+pagetitle: "Research"
+title: "Research"
+css: style-center.css
+
+description: | 
+ 
+  
+  The seed is an evolutionary novelty of land plants which as contributed to improve plant fitness. Consequently, seed plants, the most abundant plant lineage on earth constitute a turning point in land plant evolution. 
+  
+  My research is based on the understanding of this fascinating, complex and diverse structure. And so far, I have two main areas of research:
+listing: 
+  contents:
+    - "**/index.qmd"
+  type: grid
+  grid-columns: 2
+  fields: [title, image]
+  sort: "date desc"
+  filter-ui: false
+ # image-align: left
+  image-height: 400px
+#header-includes: >
+  #<link rel="stylesheet" href="../assets/listing-default.css">
+ # <link rel="" href="../assets/custom-css.js"> 
+#resources:
+ # - ../assets/listing-default.css
+ # - ../assets/custom-css.js
+---

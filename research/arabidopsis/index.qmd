@@ -1,0 +1,19 @@
+---
+title: "...yes, more <i>Arabidopsis thaliana</i>"
+image: Captured5.png
+---
+
+---
+title: ""
+subtitle: "Molecular control of postzygotic barriers"
+---
+
+<div style="text-align: justify">
+
+During my Postdoctoral research at Professor Colombo's Lab, I worked for the first time with the model species *Arabidopsis thaliana!*
+
+As always my interest is during **seed** development, in particular how fertilization barriers occur. it turns out that plants have develop different strategies to avoid hybridization between individuals of different species or ecotypes or different ploidy, but interestingly, resulting from hybridization between individuals with an unbalanced ploidy level, leading mainly to non-viable seeds, the seed coat and in particular, the innermost layer, the endothelium plays a pivotal role.
+
+This is a work still in progress!
+
+More coming soon!
