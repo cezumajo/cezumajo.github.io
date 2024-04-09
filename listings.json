@@ -1,5 +1,12 @@
 [
   {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/arabidopsis/index.html",
+      "/research/gymnosperms/index.html"
+    ]
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/2023-10-ZumajoCardona-etal/index.html",
