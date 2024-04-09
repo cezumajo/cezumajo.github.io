@@ -11,11 +11,10 @@ subtitle: "**Evolution of the seed coat**"
 
 <div style="text-align: justify">
 
+::: {style="font-size: large;"}
 The seed is formed by the embryo, sometimes by nutritive tissue and by protective layers known as the seed coat or testa \[A\]. The ovule is the early stage of the seed, throughout its development, the integument undergoes a series of ontogenetic transformations before becoming the seed coat which is the visible part of the seed. Thus, the key process in the origin of the seed, and more precisely, of the ovule, is based on the formation of the integuments around the megasporangium (nucellus) \[B\].
 
-::: column
-![](FigureOvule-seed.tif){fig-align="center"}
-:::
+![](FigureOvule-seed.jpeg){fig-align="center"}
 
 My research has been focused on studying the development of gymnosperm ovules. According to the fossil record, they are the first **extant** plant lineage where ovules evolved. I study several taxa with different ovule/seed morphologies, like: <i>Ginkgo biloba</i>, <i>Taxus baccata</i>, <i>Ephedra californica</i> and <i>Ephedra antisyphilitica</i>. This research includes different approaches: a candidate gene approach which seeks to establish whether the known genes from Arabidopsis are conserved; a morpho-anatomical approach which emphasizes in describing the structure and morphological development of the seeds; and a transcriptomic approach that seeks to identify new candidate genes that could be involved in the development of the different seed structures.
 
@@ -25,9 +24,7 @@ My research has been focused on studying the development of gymnosperm ovules. A
 
 In order to understand how the seeds evolved, we first, must understand the morphological and anatomical changes that have taken place during its development. For morphological descriptions, ovules and seeds, at different stages, were collected and different the techniques are used such as Ovule Clearings \[C\] carried out in collaboration with MSc. Samantha Frangos and Scanning Electronic Microscopy \[D\]. For anatomical descriptions, according to the tissues and characteristics, different stanning methods are used \[E\] and finally, are observed under a light microscope.
 
-::: column
-![](Fig2.tif){fig-align="center"}
-:::
+![](Fig2.jpeg){fig-align="center"}
 
 For this part, I have had the privilege of being mentored by Dr. Dennis Stevenson, who not only shared with me, very rare samples from his rich collection but above all, his remarkable scientific experience and knowledge in this area.
 
@@ -43,9 +40,7 @@ Through different phylogenetic analyses with a Maximum Likelihood across seed pl
 
 These findings show that given the multiple independent duplication events that have occurred, the Arabidopsis network should not be extrapolated to all seed plants. On the other hand, given that functional characterization techniques are currently not available for gymnosperms, spatiotemporal expression analyses are key to understand the putative role of these genes.
 
-::: column
-![](Fig3.tif){fig-align="center"}
-:::
+![](Fig3.jpeg){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -54,7 +49,6 @@ These findings show that given the multiple independent duplication events that 
 **Revealing the seed coat genetic network in Gymnosperms.**
 
 To have an overview of the genes involved in the intricate development process of the integuments and since what is known so far, concerns few angiosperms, transcriptome analyses are a very important tool. In this regard, different ovule at different stages of development, pollen cones and leaf samples were collected for: for *Ginkgo biloba* \[H\], *Ephedra antisyphilitica, Ephedra californica* and *Taxus baccata* \[I\] and sequenced for totalRNA generating approximately 631Gb of raw data.
-
-::: column
-![](Fig4.tif){fig-align="center"}
 :::
+
+![](Fig4.jpeg){fig-align="center"}
