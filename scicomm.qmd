@@ -1,5 +1,0 @@
----
-title: "Scicomm"
----
-
-Science communication proyects
