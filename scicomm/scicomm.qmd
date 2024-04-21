@@ -1,25 +1,16 @@
 ---
 title: "Scicomm"
----
-
----
-title: ""
 subtitle: "**Papers for kids**"
 #fontsize: 60pt
 ---
 
 
-
 Here are some of the projects I am involved with, for sharing science with diverse groups in fun ways!
 
-Click to find out more! 
+Click to find out more!
 
-[How seeds shape our world](https://kids.frontiersin.org/articles/10.3389/frym.2023.1065280#:~:text=Seeds%20are%20an%20important%20food,ground%20to%20grow%20new%20plants.)
-![](seed.png){fig-align="center"}
+[How seeds shape our world](https://kids.frontiersin.org/articles/10.3389/frym.2023.1065280#:~:text=Seeds%20are%20an%20important%20food,ground%20to%20grow%20new%20plants.) ![](seed.png){fig-align="center"}
 
-[What is a leaf?](https://kids.frontiersin.org/articles/10.3389/frym.2022.659623)
-![](leaf.png){fig-align="center"}
+[What is a leaf?](https://kids.frontiersin.org/articles/10.3389/frym.2022.659623) ![](leaf.png){fig-align="center"}
 
-[What is a fruit?](https://kids.frontiersin.org/articles/10.3389/frym.2020.00027)
-![](fruit.png){fig-align="center"}
-
+[What is a fruit?](https://kids.frontiersin.org/articles/10.3389/frym.2020.00027) ![](fruit.png){fig-align="center"}

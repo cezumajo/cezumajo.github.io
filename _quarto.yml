@@ -9,7 +9,8 @@ website:
         # text: Home
       - "research/index.qmd"
       - "publications/index.qmd"
-      - "scicomm/index.qmd"
+      - "scicomm/scicomm.qmd"
+      
     tools:
       - icon: twitter
         href: https://twitter.com/CeciZumajo

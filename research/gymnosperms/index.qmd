@@ -1,17 +1,13 @@
 ---
-title: "Fun gymnosperms"
+title: "Fun gymnosperms!"
 image: IMG_3851.JPG
----
-
----
-title: ""
-subtitle: "**Evolution of the seed coat**"
 #fontsize: 60pt
 ---
 
 <div style="text-align: justify">
 
 ::: {style="font-size: large;"}
+# Evolution of the seed coat
 The seed is formed by the embryo, sometimes by nutritive tissue and by protective layers known as the seed coat or testa \[A\]. The ovule is the early stage of the seed, throughout its development, the integument undergoes a series of ontogenetic transformations before becoming the seed coat which is the visible part of the seed. Thus, the key process in the origin of the seed, and more precisely, of the ovule, is based on the formation of the integuments around the megasporangium (nucellus) \[B\].
 
 ![](FigureOvule-seed.jpeg){fig-align="center"}
@@ -20,7 +16,7 @@ My research has been focused on studying the development of gymnosperm ovules. A
 
 ------------------------------------------------------------------------
 
-**Morphology and Anatomy of the Seed development**
+# Morphology and Anatomy of the Seed development
 
 In order to understand how the seeds evolved, we first, must understand the morphological and anatomical changes that have taken place during its development. For morphological descriptions, ovules and seeds, at different stages, were collected and different the techniques are used such as Ovule Clearings \[C\] carried out in collaboration with MSc. Samantha Frangos and Scanning Electronic Microscopy \[D\]. For anatomical descriptions, according to the tissues and characteristics, different stanning methods are used \[E\] and finally, are observed under a light microscope.
 
@@ -30,7 +26,7 @@ For this part, I have had the privilege of being mentored by Dr. Dennis Stevenso
 
 ------------------------------------------------------------------------
 
-**Ovule developmental genetic network,**
+# Ovule developmental genetic network,
 
 **A Gene candidate approach**
 
@@ -44,7 +40,7 @@ These findings show that given the multiple independent duplication events that 
 
 ------------------------------------------------------------------------
 
-**Comparative transcriptomic analyzes,**
+# Comparative transcriptomic analyzes,
 
 **Revealing the seed coat genetic network in Gymnosperms.**
 

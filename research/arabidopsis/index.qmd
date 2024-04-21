@@ -1,14 +1,16 @@
 ---
 title: "...yes, more <i>Arabidopsis thaliana</i>"
 image: Captured5.png
+toc: false
 ---
 
 ---
 title: ""
-subtitle: "Molecular control of postzygotic barriers"
 ---
 
 <div style="text-align: justify">
+
+# Molecular control of postzygotic barriers
 
 During my Postdoctoral research at Professor Colombo's Lab, I worked for the first time with the model species *Arabidopsis thaliana!*
 
