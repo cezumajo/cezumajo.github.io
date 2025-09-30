@@ -31,11 +31,9 @@ I was an EMBO postdoctoral researcher at the Università Degli Studi di Milano, 
 
 I obtained my PhD in June 2021, in a joint program between the City University of New York (CUNY) and the New York Botanical Garden (NYBG) with Dr. [Barbara Ambrose](https://www.nybg.org/person/barbara-ambrose/) as my advisor. My doctoral research focused on ovule development of non-model species, particularly on gymnosperms, the first plant lineage where seeds evolved. Given the enormous morphological diversity of seeds, the project included five different species. This research also combined several approaches, such as morphology and anatomy, to describe the developmental stages of the seed in the species selected, and genomic approaches to compare the expression patterns of what is known from the model species Arabidopsis with gymnosperms. But it was during my undergraduate studies that I fell in love with the evolution and development of plants. Mentored by Prof. [Natalia Pabon-Mora](https://www.evodevoplantas.com), my thesis dissertation was on the evolution of the APETALA2 gene lineage.
 
-::: justify
 For my research I use classical morpho-anatomical approaches, with up to date tools that can be implemented in non model species mostly.
 
 I use different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data.
-:::
 
 So far, my research has been the subject of various publications that I invite you to consult Do not hesitate to contact me,
 
