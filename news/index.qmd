@@ -1,0 +1,20 @@
+---
+pagetitle: "News"
+title: "News"
+
+listing: 
+  contents:
+    - "**/index.qmd"
+  type: default
+  #grid-columns: 2
+  fields: [title, image, description]
+  sort: "date desc"
+  filter-ui: false
+  #image-height: 400px
+#header-includes: >
+  #<link rel="stylesheet" href="../assets/listing-default.css">
+ # <link rel="" href="../assets/custom-css.js"> 
+#resources:
+ # - ../assets/listing-default.css
+ # - ../assets/custom-css.js
+---
