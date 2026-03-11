@@ -19,7 +19,9 @@ For my research I use classical morpho-anatomical approaches, with up to date to
 
 I use different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data.
 
-So far, my research has been the subject of various publications that I invite you to consult Do not hesitate to contact me,
+So far, my research has been the subject of various publications that I invite you to consult.
+
+Do not hesitate to contact me,
 
 Cecilia Zumajo-Cardona
 

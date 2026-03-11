@@ -10,7 +10,9 @@ website:
     right:
       #- href: about.qmd
         #text: Home
-      - "people/index.qmd"
+      #- "people/index.qmd"
+      - href: people/index.qmd
+        text: People
       - "research/index.qmd"
       - "publications/index.qmd"
       - "scicomm/scicomm.qmd"
