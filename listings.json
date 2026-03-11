@@ -1,13 +1,10 @@
 [
   {
-    "listing": "/people/index.html",
+    "listing": "/research/index.html",
     "items": [
-      "/people/Cecilia-Zumajo-Cardona/index.html"
+      "/research/arabidopsis/index.html",
+      "/research/gymnosperms/index.html"
     ]
-  },
-  {
-    "listing": "/news/index.html",
-    "items": []
   },
   {
     "listing": "/publications/index.html",
@@ -27,10 +24,14 @@
     ]
   },
   {
-    "listing": "/research/index.html",
+    "listing": "/news/index.html",
+    "items": []
+  },
+  {
+    "listing": "/people/index.html",
     "items": [
-      "/research/arabidopsis/index.html",
-      "/research/gymnosperms/index.html"
+      "/people/Cecilia-Zumajo-Cardona/index.html",
+      "/people/Ormary-Alvarez/index.html"
     ]
   }
 ]
