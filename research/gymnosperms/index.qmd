@@ -4,10 +4,10 @@ image: IMG_3851.JPG
 #fontsize: 60pt
 ---
 
-<div style="text-align: justify">
-
+:::: {style="text-align: justify"}
 ::: {style="font-size: large;"}
 # Evolution of the seed coat
+
 The seed is formed by the embryo, sometimes by nutritive tissue and by protective layers known as the seed coat or testa \[A\]. The ovule is the early stage of the seed, throughout its development, the integument undergoes a series of ontogenetic transformations before becoming the seed coat which is the visible part of the seed. Thus, the key process in the origin of the seed, and more precisely, of the ovule, is based on the formation of the integuments around the megasporangium (nucellus) \[B\].
 
 ![](FigureOvule-seed.jpeg){fig-align="center"}
@@ -48,3 +48,4 @@ To have an overview of the genes involved in the intricate development process o
 :::
 
 ![](Fig4.jpeg){fig-align="center"}
+::::

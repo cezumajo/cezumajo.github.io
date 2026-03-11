@@ -8,8 +8,7 @@ toc: false
 title: ""
 ---
 
-<div style="text-align: justify">
-
+::: {style="text-align: justify"}
 # Molecular control of postzygotic barriers
 
 During my Postdoctoral research at Professor Colombo's Lab, I worked for the first time with the model species *Arabidopsis thaliana!*
@@ -19,3 +18,4 @@ As always my interest is during **seed** development, in particular how fertiliz
 This is a work still in progress!
 
 More coming soon!
+:::

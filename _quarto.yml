@@ -8,11 +8,12 @@ website:
   favicon: favicon.png
   navbar:
     right:
-      - href: about.qmd
-        # text: Home
+      #- href: about.qmd
+        #text: Home
       - "research/index.qmd"
       - "publications/index.qmd"
       - "scicomm/scicomm.qmd"
+      - "people/index.qmd"
       
     tools:
       - icon: github 
@@ -30,5 +31,3 @@ format:
     toc: true
 
 editor: visual
-
-

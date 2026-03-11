@@ -4,7 +4,6 @@ subtitle: "**Papers for kids**"
 #fontsize: 60pt
 ---
 
-
 Here are some of the projects I am involved with, for sharing science with diverse groups in fun ways!
 
 Click to find out more!

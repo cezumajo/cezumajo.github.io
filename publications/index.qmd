@@ -22,8 +22,6 @@ listing:
     field-display-names:
       publication: "Publication"
       year: "Year"
-
-            
 ---
 
 ::: {#articles}
