@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/people/index.html",
+    "items": [
+      "/people/Cecilia-Zumajo-Cardona/index.html"
+    ]
+  },
+  {
+    "listing": "/news/index.html",
+    "items": []
+  },
+  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/2023-10-ZumajoCardona-etal/index.html",

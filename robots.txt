@@ -1,1 +1,1 @@
-Sitemap: https://cezumajo.github.io/sitemap.xml
+Sitemap: cezumajo.github.io/sitemap.xml
