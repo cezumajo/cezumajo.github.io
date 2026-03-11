@@ -17,6 +17,4 @@ listing:
 #resources:
  # - ../assets/listing-default.css
  # - ../assets/custom-css.js
-
 ---
-

@@ -10,10 +10,10 @@ website:
     right:
       #- href: about.qmd
         #text: Home
+      - "people/index.qmd"
       - "research/index.qmd"
       - "publications/index.qmd"
       - "scicomm/scicomm.qmd"
-      - "people/index.qmd"
       - "news/index.qmd"
       
     tools:
