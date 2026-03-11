@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "Cecilia Zumajo-Cardona"
+  title: "Zumajo-Cardona Lab"
   site-url: cezumajo.github.io
   repo-url: https://github.com/cezumajo/cezumajo.github.io
   favicon: favicon.png
