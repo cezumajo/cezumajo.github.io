@@ -5,3 +5,4 @@ image: image-2.png
 toc: false
 ---
 
+Ormary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!

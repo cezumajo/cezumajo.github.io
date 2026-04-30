@@ -1,20 +1,26 @@
 ---
-title: "Dehiscent fruits in Brassicaceae and Papaveraceae: convergent morpho-anatomical features with divergent underlying genetic mechanisms"
+title: "Evolutionary studies of the bHLH transcription factors belonging to MBW complex: their role in seed development"
 author:
   - name: "**Cecilia Zumajo-Cardona**"
     orcid: 0000-0002-9516-6112
-  - name: Barbara A. Ambrose
-  - name: Yesenia Madrigal
-  - name: Natalia Pabón-Mora
-year: 2025
-date: 2025-12
+  - name: Flavio Gabrieli
+  - name: Jovannemar Anire
+  - name: Emidio Albertini
+  - name: Ignacio Ezquer
+  - name: Lucia Colombo
+year: 2023
+date: 2023-09
 publication: Annals of Botany
-doi: https://doi.org/10.1093/aob/mcaf079
+doi: https://doi.org/10.1093/aob/mcad097
 materials: ""
 
 categories:
-  - Fruits
-  - Papaveraceae
+  - Flavonoids
+  - Postzygotic barriers
+  - Protein complexes
+  - seed coat
+  - TRANSPARENT TESTA 8
+  - Triploid block
 ---
 
 ## Abstract
@@ -29,4 +35,4 @@ categories:
 
 ## Citation
 
-> Zumajo-Cardona, C., Gabrieli, F., Anire, J., Albertini, E., Ezquer, I., & Colombo, L. (2023). Evolutionary studies of the bHLH transcription factors belonging to MBW complex: Their role in seed development. <i>Annals of Botany</i>, <i>132</i>(3), 383-400. https://doi.org/10.1093/aob/mcad097
+>Zumajo-Cardona, C., Gabrieli, F., Anire, J., Albertini, E., Ezquer, I., &amp; Colombo, L. (2023). Evolutionary studies of the bHLH transcription factors belonging to MBW complex: Their role in seed development. <i>Annals of Botany</i>, <i>132</i>(3), 383-400. https://doi.org/10.1093/aob/mcad097

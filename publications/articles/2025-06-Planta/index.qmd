@@ -1,20 +1,25 @@
 ---
-title: "Dehiscent fruits in Brassicaceae and Papaveraceae: convergent morpho-anatomical features with divergent underlying genetic mechanisms"
+title: "The role of cytokinin receptors in Arabidopsis thaliana seed development and how they affect the metabolomic profile"
 author:
+  - name: Domenico Loperfido
   - name: "**Cecilia Zumajo-Cardona**"
     orcid: 0000-0002-9516-6112
+  - name: Mauro Commisso
+  - name: Flavia Guzzo
   - name: Barbara A. Ambrose
-  - name: Yesenia Madrigal
-  - name: Natalia Pabón-Mora
+  - name: Lucia Colombo
+  - name: Ignacio Ezquer
 year: 2025
-date: 2025-12
-publication: Annals of Botany
-doi: https://doi.org/10.1093/aob/mcaf079
+date: 2025-06
+publication: Planta
+doi:  https://doi.org/10.1007/s00425-025-04745-7
 materials: ""
 
 categories:
-  - Fruits
-  - Papaveraceae
+  - Cytokinins
+  - Postzygotic barriers
+  - Seeds
+  - seed coat
 ---
 
 ## Abstract
