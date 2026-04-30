@@ -1,0 +1,8 @@
+---
+
+title: "Lyla Quim"
+description: "SciNet Intern"
+image: IMG_3518-lyla.png
+toc: false
+---
+

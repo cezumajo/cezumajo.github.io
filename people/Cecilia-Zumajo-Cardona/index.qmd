@@ -1,7 +1,7 @@
 ---
 title: "Cecilia Zumajo-Cardona"
 description: "Principal Investigator"
-image: headshot-Cecilia.png
+image: headshot-smaller.png
 toc: false
 ---
 
