@@ -3,14 +3,61 @@ pagetitle: "People"
 title: "Meet the Group"
 
 listing: 
-  contents: 
+#  contents: 
     - "**/index.qmd"
-  type: grid 
-  grid-columns: 2
-  fields: [title, image, description]
-  sort: "date desc"
-  filter-ui: false 
-  image-height: 400px 
-  image-align: left
+#  type: grid 
+#  grid-columns: 2
+#  fields: [title, image, description]
+#  sort: "date desc"
+#  filter-ui: false 
+#  image-height: 400px 
+#  image-align: left
    #header-includes: \> \#<link rel="stylesheet" href="../assets/listing-default.css"> \# <link rel="" href="../assets/custom-css.js"> #resources: \# - ../assets/listing-default.css \# - ../assets/custom-css.js
+---
+
+## Principal Investigator
+
+### Cecilia Zumajo-Cardona
+
+*Principal Investigator*
+
+Welcome to the Zumajo-Cardona Lab at NYBG!
+
+I am an Assistant Curator at NYBG working on Evo-Devo of seed plants.
+
+For my research I use classical morpho-anatomical approaches, with up to date tools that can be implemented in non model species mostly.
+
+I use different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data.
+
+Do not hesitate to contact me,
+
+Assistant curator at the Laboratory for Integrative Biodiversity Research.
+
+The New York Botanical Garden
+
+czumajo@nybg.org
+
+![](images/headshot-smaller.png){width=300px}
+
+---
+
+## Lab Members
+
+### Ormary Alvarez
+
+*SciNet Intern*
+
+Ormary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!
+
+![](images/Image-2.png){width=300px}
+
+---
+
+### Lyla Quim
+
+*SciNet Intern*
+
+Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development
+
+![](images/img-lyla.png){width=300px}
 ---
