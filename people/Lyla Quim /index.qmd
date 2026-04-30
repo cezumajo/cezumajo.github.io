@@ -4,4 +4,4 @@ description: "SciNet Intern"
 image: img-lyla.png
 toc: false
 ---
-
+Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development 
