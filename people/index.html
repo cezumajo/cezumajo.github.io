@@ -31,8 +31,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
 <link href="../favicon.png" rel="icon" type="image/png">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -73,65 +71,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -187,8 +127,23 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#principal-investigator" id="toc-principal-investigator" class="nav-link active" data-scroll-target="#principal-investigator">Principal Investigator</a>
+  <ul class="collapse">
+  <li><a href="#cecilia-zumajo-cardona" id="toc-cecilia-zumajo-cardona" class="nav-link" data-scroll-target="#cecilia-zumajo-cardona">Cecilia Zumajo-Cardona</a></li>
+  </ul></li>
+  <li><a href="#lab-members" id="toc-lab-members" class="nav-link" data-scroll-target="#lab-members">Lab Members</a>
+  <ul class="collapse">
+  <li><a href="#ormary-alvarez" id="toc-ormary-alvarez" class="nav-link" data-scroll-target="#ormary-alvarez">Ormary Alvarez</a></li>
+  <li><a href="#lyla-quim" id="toc-lyla-quim" class="nav-link" data-scroll-target="#lyla-quim">Lyla Quim</a></li>
+  </ul></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"><img src="images/img-lyla.png" class="img-fluid" width="300"></a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -212,63 +167,45 @@ window.Quarto = {
 </header>
 
 
+<section id="principal-investigator" class="level2">
+<h2 class="anchored" data-anchor-id="principal-investigator">Principal Investigator</h2>
+<section id="cecilia-zumajo-cardona" class="level3">
+<h3 class="anchored" data-anchor-id="cecilia-zumajo-cardona">Cecilia Zumajo-Cardona</h3>
+<p><em>Principal Investigator</em></p>
+<p>Welcome to the Zumajo-Cardona Lab at NYBG!</p>
+<p>I am an Assistant Curator at NYBG working on Evo-Devo of seed plants.</p>
+<p>For my research I use classical morpho-anatomical approaches, with up to date tools that can be implemented in non model species mostly.</p>
+<p>I use different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data.</p>
+<p>Do not hesitate to contact me,</p>
+<p>Assistant curator at the Laboratory for Integrative Biodiversity Research.</p>
+<p>The New York Botanical Garden</p>
+<p>czumajo@nybg.org</p>
+<p><img src="images/headshot-smaller.png" class="img-fluid" width="300"></p>
+<hr>
+</section>
+</section>
+<section id="lab-members" class="level2">
+<h2 class="anchored" data-anchor-id="lab-members">Lab Members</h2>
+<section id="ormary-alvarez" class="level3">
+<h3 class="anchored" data-anchor-id="ormary-alvarez">Ormary Alvarez</h3>
+<p><em>SciNet Intern</em></p>
+<p>Ormary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!</p>
+<p><img src="images/Image-2.png" class="img-fluid" width="300"></p>
+<hr>
+</section>
+<section id="lyla-quim" class="level3">
+<h3 class="anchored" data-anchor-id="lyla-quim">Lyla Quim</h3>
+<p><em>SciNet Intern</em></p>
+<p>Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development</p>
+</section>
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><img src="images/img-lyla.png" class="img-fluid" width="300"></h2>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1777550027463" data-listing-reading-time-sort="2" data-listing-word-count-sort="358">
-<a href="../people/Cecilia-Zumajo-Cardona/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../people/Cecilia-Zumajo-Cardona/headshot-smaller.png" class="thumbnail-image card-img" style="height: 400px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Cecilia Zumajo-Cardona
-</h5>
-<div class="card-text listing-description delink">
-<p>Principal Investigator</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1777553101627" data-listing-reading-time-sort="1" data-listing-word-count-sort="26">
-<a href="../people/Lyla Quim /index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../people/Lyla Quim /img-lyla.png" class="thumbnail-image card-img" style="height: 400px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lyla Quim
-</h5>
-<div class="card-text listing-description delink">
-<p>SciNet Intern</p>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1777552959400" data-listing-reading-time-sort="1" data-listing-word-count-sort="34">
-<a href="../people/Ormary-Alvarez/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="../people/Ormary-Alvarez/image-2.png" class="thumbnail-image card-img" style="height: 400px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ormary Alvarez
-</h5>
-<div class="card-text listing-description delink">
-<p>SciNet Intern</p>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
