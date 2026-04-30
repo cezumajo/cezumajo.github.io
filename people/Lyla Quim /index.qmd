@@ -1,8 +1,7 @@
 ---
-
 title: "Lyla Quim"
 description: "SciNet Intern"
-image: IMG_3518-lyla.png
+image: img-lyla.png
 toc: false
 ---
 
