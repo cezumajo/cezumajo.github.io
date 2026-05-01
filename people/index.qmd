@@ -26,7 +26,7 @@ The New York Botanical Garden
 
 czumajo\@nybg.org
 
-![](images/headshot-smaller.png){width="300px"}
+![](images/headshot-smaller.png){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ czumajo\@nybg.org
 
 Ormary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!
 
-![](images/Image-2.png){width="300px"}
+![](images/Image-2.png){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -48,4 +48,12 @@ Ormary is our senior intern, she knows a varity of laboratory techniques, and is
 
 Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development
 
-## ![](images/img-lyla.png){width="300px"}
+## ![](images/img-lyla.png){width="300px" fig-align="center"}
+
+
+------------------------------------------------------------------------
+
+
+
+
+
