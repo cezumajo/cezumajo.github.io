@@ -40,6 +40,7 @@ Emma is...
 ![](images/EmmaLuther){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
+
 ### Ormary Alvarez
 
 *SciNet Intern*
@@ -59,6 +60,7 @@ Lyla is a High School student (Bronx High School of Science) and a SciNet intern
 ![](images/img-lyla.png){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
+
 ### Yihe Yu
 
 *NYU Master student*
