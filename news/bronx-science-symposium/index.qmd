@@ -1,0 +1,18 @@
+---
+title: "Bronx Science Symposium"
+description: "Lyla and Ormary shared their research at the Bronx Science Symposium."
+date: 2026-01-17
+toc: true
+---
+
+Our lab  attended the Bronx Science Symposium, where Lyla and Ormary presented their work to students, researchers, and other visitors. This was a wonderful opportunity to share our research, connect with others, and celebrate the progress of our team.
+
+You can use this space to tell people more about what happened during the event, who attended, what stood out, and what the team learned.
+
+## Photos from the event
+
+::: {layout-ncol=2}
+![Ormary presenting her work](images/IMG_9989){width="300px" fig-align="center"}){fig-alt="Ormary presenting her work" fig-cap="Ormary presenting her work on ovule development in the 'living fossil' *Wollemia* (Araucariaceae)."}
+
+![Lyla presenting her work](images/IMG_9985 2){width="300px" fig-align="center"}){fig-alt="Lyla presenting her work" fig-cap="Lyla presenting her work on the morphological study of the unusual flowers of *Chloranthus* spicatus."}
+:::
