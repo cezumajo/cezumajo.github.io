@@ -7,4 +7,4 @@ toc: true
 
 From July 26–30, 2025, Ormary Alvarez — a SCINet intern and undergraduate student at Lehman College — received a PLANTS fellowship to attend BOTANY 2025 in Palm Springs, California. There, she presented a poster sharing her most recent results on Wollemia ovule development. This experience was a wonderful opportunity for Ormary to share her work with the broader botanical community and connect with researchers from across the field.
 
-![Ormary Alvarez presenting her poster at BOTANY 2025](Images/jan17.jpeg){width="300px" fig-align="center"}{fig-alt="Ormary Alvarez presenting her poster at BOTANY 2025" fig-cap="Ormary Alvarez presenting her poster on Wollemia ovule development at BOTANY 2025."}
+![Ormary Alvarez presenting her poster at BOTANY 2025](news/Images/jan17.jpeg){width="300px" fig-align="center"}{fig-alt="Ormary Alvarez presenting her poster at BOTANY 2025" fig-cap="Ormary Alvarez presenting her poster on Wollemia ovule development at BOTANY 2025."}
