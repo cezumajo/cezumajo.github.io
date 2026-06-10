@@ -48,7 +48,7 @@ Emma is...
 
 For her Masters' in Biology (with emphasis in computational biology) Yihe is studying the molecular toolkit involved in the flower development of Chloranthus, by analyzing published and our own generated transcriptomes. Her project also takes advantage of the genomes available for this plant family to dive deep in the molecular regulations behind floral reductions. 
 
-![](images/Yihe-Yu.jpeg){width="300px" fig-align="center"}
+![](images/Yihe-Yu.jpeg){width="500px" fig-align="center"}
 
 ------------------------------------------------------------------------
 
