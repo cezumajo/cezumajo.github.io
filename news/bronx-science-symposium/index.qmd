@@ -15,7 +15,7 @@ Ormary presented her newest results on the ovule developmental network in Wollem
 ## Photos from the event
 
 ::: {layout-ncol=2}
-![Ormary presenting her work](Images/IMG_9989.jpeg){width="300px" fig-align="center"}{fig-alt="Ormary presenting her work" fig-cap="Ormary presenting her work on ovule development in the 'living fossil' *Wollemia* (Araucariaceae)."}
+![Ormary presenting her work](news/Images/IMG_9989.jpeg){width="300px" fig-align="center"}{fig-alt="Ormary presenting her work" fig-cap="Ormary presenting her work on ovule development in the 'living fossil' *Wollemia* (Araucariaceae)."}
 
-![Lyla presenting her work](Images/IMG_9985 2.jpeg){width="300px" fig-align="center"}{fig-alt="Lyla presenting her work" fig-cap="Lyla presenting her work on the morphological study of the unusual flowers of *Chloranthus* spicatus."}
+![Lyla presenting her work](news/Images/IMG_9985 2.jpeg){width="300px" fig-align="center"}{fig-alt="Lyla presenting her work" fig-cap="Lyla presenting her work on the morphological study of the unusual flowers of *Chloranthus* spicatus."}
 :::
