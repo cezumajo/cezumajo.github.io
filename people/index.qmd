@@ -38,7 +38,7 @@ czumajo\@nybg.org
 
 Emma is... 
 
-![](images/EmmaLuther){width="300px" fig-align="center"}
+![](images/EmmaLuther.jpeg){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -48,7 +48,7 @@ Emma is...
 
 For her Masters' in Biology (with emphasis in computational biology) Yihe is studying the molecular toolkit involved in the flower development of Chloranthus, by analyzing published and our own generated transcriptomes. Her project also takes advantage of the genomes available for this plant family to dive deep in the molecular regulations behind floral reductions. 
 
-![](images/Yihe-Yu){width="300px" fig-align="center"}
+![](images/Yihe-Yu.jpeg){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -77,4 +77,4 @@ Lyla is a rising senior at Bronx High School of Science and a SciNet intern who 
 
  Ethan is a rising junior at The Taft School. This summer, he will study the expression of floral genes in reduced flowers of Chloranthus using PCR and gel electrophoresis. His goal is to understand how these genes are present, highlighted, or repressed. While running the PCR experiments, Ethan will also lead the lab's science dissemination efforts through the website, blog posts, and videos.
 
- ![](images/FullSizeRender){width="300px" fig-align="center"} 
+ ![](images/FullSizeRender.jpeg){width="300px" fig-align="center"} 
