@@ -1,9 +1,0 @@
----
-title: "Noticia test"
-#description: "Principal Investigator"
-image: headshot-Cecilia.png
-toc: false
-draft: true
----
-
-Primera noticia
