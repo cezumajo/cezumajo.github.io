@@ -64,8 +64,15 @@ Ormary is our senior intern, she knows a varity of laboratory techniques, and is
 
 *SciNet Intern*
 
-Lyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development
+Lyla is a rising senior at Bronx High School of Science and a SciNet intern who is leading our project on the Chloranthus flower development. In the lab she take advantage of several microscopy techniques: scanning Electron microscopy (SEM) to observe the morphology of her sample and she Uses light microscopy to observe the thin anatomical sections she Create with the microtome.
 
 ![](images/img-lyla.png){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
+### Ethan Harry 
+
+*TAFT Summer intern 2025 and 2026 
+
+ Ethan is a rising junior at The Taft School. This summer, he will study the expression of floral genes in reduced flowers of Chloranthus using PCR and gel electrophoresis. His goal is to understand how these genes are present, highlighted, or repressed. While running the PCR experiments, Ethan will also lead the lab's science dissemination efforts through the website, blog posts, and videos.
+
+ ![](images/FullSizeRender){width="300px" fig-align="center"} 
