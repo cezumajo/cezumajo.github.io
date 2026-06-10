@@ -14,6 +14,27 @@
     "text": "Welcome to the Zumajo-Cardona Lab at NYBG!\nI am an Assistant Curator at NYBG working on Evo-Devo of seed plants.\nGrowing up in a neotropical country, I was exposed to an enormous diversity of plants, which naturally aroused in me curiosity and the desire to know more about them. Until now, my studies and research have mainly focused on the evolution and development of plants. Currently, I am an Assistant Curator at New York Botanical Garden.\nI was an EMBO postdoctoral researcher at the Università Degli Studi di Milano, working in Prof. Colombo’s lab, I received a ‘Seal of Excellence’ from the European commission after applying for the Marie Curie Postdoctoral Fellowship. And I also did a short Postdoct at the Università Degli Studi di Padova and its botanical garden (the oldest in the world!) working on Wollemia (araucariaceae) ovule development, Funded by the University (STARS@UniPd program).\nI obtained my PhD in June 2021, in a joint program between the City University of New York (CUNY) and the New York Botanical Garden (NYBG) with Dr. Barbara Ambrose as my advisor. My doctoral research focused on ovule development of non-model species, particularly on gymnosperms, the first plant lineage where seeds evolved. Given the enormous morphological diversity of seeds, the project included five different species. This research also combined several approaches, such as morphology and anatomy, to describe the developmental stages of the seed in the species selected, and genomic approaches to compare the expression patterns of what is known from the model species Arabidopsis with gymnosperms. But it was during my undergraduate studies that I fell in love with the evolution and development of plants. Mentored by Prof. Natalia Pabon-Mora, my thesis dissertation was on the evolution of the APETALA2 gene lineage.\nFor my research I use classical morpho-anatomical approaches, with up to date tools that can be implemented in non model species mostly.\nI use different programming languages such as Bash, AWK and Python, that are of great help for analyzing the transcriptome data.\nSo far, my research has been the subject of various publications that I invite you to consult.\nDo not hesitate to contact me,\nCecilia Zumajo-Cardona\nLaboratory for Integrative Biodiversity Research.\nThe New York Botanical Garden\nczumajo@nybg.org"
   },
   {
+    "objectID": "news/bronx-science-symposium/index.html",
+    "href": "news/bronx-science-symposium/index.html",
+    "title": "Bronx Science Symposium",
+    "section": "",
+    "text": "Our lab attended the Bronx Science Symposium, where Lyla and Ormary presented their work to students, researchers, and other visitors. This was a wonderful opportunity to share our research, connect with others, and celebrate the progress of our team.\nLyla presented a detailed morpho-anatomical development of the flowers of Chloranthus. On her poster, Lyla highlighted all the unknowns behind the unique morphology of this species (using Scanning Electron Microscopy) and anatomy (through microtome sections and light microscopy).This project has set a solid ground for further developmental studies, as it identifies landmark stages.\nOrmary presented her newest results on the ovule developmental network in Wollemia. With new and exciting expression patterns, through in situ hybridization, of key genes such as: BEL, ANT, SPL… She will continue to characterize the evolutionary changes in the canonical ovule developmental network."
+  },
+  {
+    "objectID": "news/bronx-science-symposium/index.html#photos-from-the-event",
+    "href": "news/bronx-science-symposium/index.html#photos-from-the-event",
+    "title": "Bronx Science Symposium",
+    "section": "Photos from the event",
+    "text": "Photos from the event\n\n\n\n{fig-alt=“Ormary presenting her work” fig-cap=“Ormary presenting her work on ovule development in the ‘living fossil’ Wollemia (Araucariaceae).”}\n\n\n{fig-alt=“Lyla presenting her work” fig-cap=“Lyla presenting her work on the morphological study of the unusual flowers of Chloranthus spicatus.”}"
+  },
+  {
+    "objectID": "news/ormary-plants-fellowship/index.html",
+    "href": "news/ormary-plants-fellowship/index.html",
+    "title": "Ormary Alvarez receives a PLANTS fellowship",
+    "section": "",
+    "text": "From July 26–30, 2025, Ormary Alvarez — a SCINet intern and undergraduate student at Lehman College — received a PLANTS fellowship to attend BOTANY 2025 in Palm Springs, California. There, she presented a poster sharing her most recent results on Wollemia ovule development. This experience was a wonderful opportunity for Ormary to share her work with the broader botanical community and connect with researchers from across the field.\n{fig-alt=“Ormary Alvarez presenting her poster at BOTANY 2025” fig-cap=“Ormary Alvarez presenting her poster on Wollemia ovule development at BOTANY 2025.”}"
+  },
+  {
     "objectID": "publications/articles/2017-ZumajoCardona-etal/index.html",
     "href": "publications/articles/2017-ZumajoCardona-etal/index.html",
     "title": "Evolution of the SPATULA/ALCATRAZ gene lineage and expression analyses in the basal eudicot, Bocconia frutescens L. (Papaveraceae)",
@@ -354,7 +375,7 @@
     "href": "news/index.html",
     "title": "News",
     "section": "",
-    "text": "No matching items"
+    "text": "Bronx Science Symposium\n\n\nLyla and Ormary shared their research at the Bronx Science Symposium.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nOrmary Alvarez receives a PLANTS fellowship\n\n\nOrmary Alvarez presented her latest results on Wollemia ovule development at BOTANY 2025.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "people/index.html",
@@ -375,6 +396,6 @@
     "href": "people/index.html#lab-members",
     "title": "Meet the Group",
     "section": "Lab Members",
-    "text": "Lab Members\n\nOrmary Alvarez\nSciNet Intern\nOrmary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!\n\n\n\n\n\n\n\n\nLyla Quim\nSciNet Intern\nLyla is a High School student (Bronx High School of Science) and a SciNet intern who is leading our project on the Chloranthus flower development"
+    "text": "Lab Members\n\nEmma Luther\nNYU Master student\nEmma is… \n\n\n\nYihe Yu\nNYU Master student\nFor her Masters’ in Biology (with emphasis in computational biology) Yihe is studying the molecular toolkit involved in the flower development of Chloranthus, by analyzing published and our own generated transcriptomes. Her project also takes advantage of the genomes available for this plant family to dive deep in the molecular regulations behind floral reductions. \n\n\n\nOrmary Alvarez\nSciNet Intern\nOrmary is our senior intern, she knows a varity of laboratory techniques, and is helping us in the development of serveral projects, including Wollemia seed development and also to digitize our NYBG Seed colection!\n\n\n\n\n\n\n\n\nLyla Quim\nSciNet Intern\nLyla is a rising senior at Bronx High School of Science and a SciNet intern who is leading our project on the Chloranthus flower development. In the lab she take advantage of several microscopy techniques: scanning Electron microscopy (SEM) to observe the morphology of her sample and she Uses light microscopy to observe the thin anatomical sections she Create with the microtome.\n\n\n\n\n\n\n\n\nEthan Harry\n*TAFT Summer intern 2025 and 2026\nEthan is a rising junior at The Taft School. This summer, he will study the expression of floral genes in reduced flowers of Chloranthus using PCR and gel electrophoresis. His goal is to understand how these genes are present, highlighted, or repressed. While running the PCR experiments, Ethan will also lead the lab’s science dissemination efforts through the website, blog posts, and videos."
   }
 ]

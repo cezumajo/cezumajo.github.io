@@ -27,6 +27,9 @@
   },
   {
     "listing": "/news/index.html",
-    "items": []
+    "items": [
+      "/news/bronx-science-symposium/index.html",
+      "/news/ormary-plants-fellowship/index.html"
+    ]
   }
 ]
