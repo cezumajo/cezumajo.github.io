@@ -36,7 +36,7 @@ czumajo\@nybg.org
 
 *NYU Master student*
 
-Emma is working on *Gnetum* cone development! stay tuned for more!
+Emma is working on project that studies the spatiotemporal expression of the gene, LEAFY, as well as its target genes GGM3, GGM2 and GGM15 (B and C type genes) within the reproductive cones of Gnetum gnemon. Utilizing in situ hybridization, we can compare our findings to previous studies focused on other gymnosperm species, which allows us to better understand the role of LEAFY in reproductive structure development
 
 ![](images/EmmaLuther.jpeg){width="300px" fig-align="center"}
 
