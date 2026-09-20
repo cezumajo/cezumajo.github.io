@@ -42,7 +42,20 @@ Emma is working on project that studies the spatiotemporal expression of the gen
 
 ------------------------------------------------------------------------
 
-### Yihe Yugitcreds::gitcreds_set()
+### Keguang Cheng
+
+*NYU Master student*
+
+Keguang Master's is on the transcriptomic analyses of the aquatic plant *Podostemum ceratophyllum*. By doing a through bioinformatic analysis of the our own generated RNAseq, Keguang aims to have a better molecular understanding of the complex identity of the different tissues that form this enigmatic plant. 
+
+This project is in collaboration with Dr. Ana Bedoya (NYBG)
+
+
+![](images/keguang.jpg){width="300px" fig-align="center"}
+
+------------------------------------------------------------------------
+
+### Yihe Yu
 
 *NYU Master student*
 
@@ -61,6 +74,21 @@ Ormary is our senior intern, she knows a varity of laboratory techniques, and is
 ![](images/Image-2.png){width="300px" fig-align="center"}
 
 ------------------------------------------------------------------------
+
+### Ellasun Chamberlain
+
+*SciNet Intern*
+
+Ellasun is leading our project on callose accumulation in the tissues of *Arabidopsis* in response to cold stress. 
+Subsequently testing the callose accumulation in leaves, by doing the staining with aniline blue, and quantifying with ImageJ. 
+
+Addditonally, whe has extensive experience in all our different microscopes: SEM, Light microscopy and laser microscope. She has helped in several projects in our lab. 
+
+This project is in collaboration with Dr. Francesca Vallese (CUNY-ASRC)
+
+
+------------------------------------------------------------------------
+
 
 ### Lyla Quim
 
