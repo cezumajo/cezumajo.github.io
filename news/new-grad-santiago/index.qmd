@@ -1,0 +1,14 @@
+---
+title: "Welcome new Ph.D. student Santiago Perez Ospina"
+description: "He has joined our lab this Fall-2026 to start his Ph.D."
+date: 2026-08-30
+toc: true
+---
+
+August 2026 - Santiago Perez Ospina started his Ph.D. through the CUNY-NYBG joint program. Santiago obtained his bachelor in Science from the Universidad de Antioquia, Colombia. He is very passionate about plant evodevo!
+
+Stayed tuned for all his updates!
+
+![](Images/IMG_1758.jpg){fig-align="center"}
+
+
