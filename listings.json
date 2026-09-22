@@ -1,12 +1,5 @@
 [
   {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/arabidopsis/index.html",
-      "/research/gymnosperms/index.html"
-    ]
-  },
-  {
     "listing": "/publications/index.html",
     "items": [
       "/publications/articles/2023-10-ZumajoCardona-etal/index.html",
@@ -26,9 +19,17 @@
     ]
   },
   {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/arabidopsis/index.html",
+      "/research/gymnosperms/index.html"
+    ]
+  },
+  {
     "listing": "/news/index.html",
     "items": [
       "/news/Cecilia-Zumajo-Cardona/index.html",
+      "/news/new-grad-santiago/index.html",
       "/news/bronx-science-symposium/index.html",
       "/news/ormary-plants-fellowship/index.html"
     ]
